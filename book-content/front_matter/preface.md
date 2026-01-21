@@ -1,6 +1,6 @@
 # Preface
 
-This is my fourth book, and in many ways it is the culmination of everything I have written before. In Destroy Your Beliefs, I made the case that belief systems are not the virtues we have been taught they are, but obstacles to intellectual freedom and genuine understanding. In Repetition, I explored how mastery emerges not from talent or inspiration but from disciplined, consistent practice. In The Clarity of Reality, I began the work of stripping away illusions to confront existence as it actually is. This book completes that trajectory.
+This is my sixth book, and in many ways it is the culmination of everything I have written before. In Destroy Your Beliefs, I made the case that belief systems are not the virtues we have been taught they are, but obstacles to intellectual freedom and genuine understanding. In Repetition, I explored how mastery emerges not from talent or inspiration but from disciplined, consistent practice. In The Clarity of Reality, I began the work of stripping away illusions to confront existence as it actually is. This book completes that trajectory.
 
 Reality Without Belief is not a gentle book. It does not offer comfort. It does not provide the reassurance that most readers seek from books about life and meaning. What it offers instead is clarity. Clarity about what belief actually is and what it is not. Clarity about the difference between knowing and believing. Clarity about what it means to face reality directly, without the buffer of conviction or the armor of ideology.
 
