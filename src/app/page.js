@@ -1,7 +1,7 @@
 "use client";
 
-import RealityWithoutBelief from "@/components/RealityWithoutBelief";
+import RealityWithoutBeliefNew from "@/components/RealityWithoutBeliefNew";
 
 export default function Home() {
-  return <RealityWithoutBelief />;
+  return <RealityWithoutBeliefNew />;
 }
