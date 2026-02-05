@@ -54,9 +54,29 @@ Each book's content follows a deliberate strategy for reader retention and serie
 
 **Books 2–5 Introductions** — Each opens with a **"Where We Have Been"** section that summarizes the key discoveries from all previous books, then a **"What This Book Addresses"** section with chapter-specific previews. This serves readers who enter mid-series and refreshes the context for series readers.
 
-**Books 1–4 Epilogues** — Each ends with a **"Coming Next"** section that functions as a sales hook for the next book. These previews are specific, compelling, and list what readers will discover in the next book's chapters. The goal is to create urgency — to make readers feel they are standing at a threshold they must cross.
+**Books 1–4 Epilogues** — Each ends with a **"Coming Next"** section that functions as a sales hook for the next book. These previews are specific, compelling, and list what readers will discover in the next book's chapters. The goal is to create anticipation and excitement — to make readers feel they are on the threshold of the next transformation.
 
 **Book 5 Epilogue** — Contains the series conclusion, acknowledgments, and complete series listing.
+
+**Book Descriptions** — Each description includes:
+
+- What is in the current book (chapter-specific bullet points)
+- What was covered in previous books (for Books 2–5)
+- What is coming in the rest of the series (for Books 1–4)
+- Designed as a compelling sales hook for the entire series
+
+### Tone and Language
+
+All content across all files follows a consistent **inspirational, firm, solid, unapologetic** tone:
+
+- **No warnings** — Challenges are reframed as transitions, discoveries, and extraordinary opportunities
+- **No discomfort framing** — "This will be uncomfortable" is replaced with "This will transform your life"
+- **No void/emptiness framing** — What lies beyond belief is described as solid ground, fullness, and extraordinary freedom
+- **Costs reframed as transitions** — Leaving communities becomes "choosing integrity"; loneliness becomes "spaciousness of the pioneer"
+- **Consistently empowering** — Every discovery, every practice, every chapter is framed in terms of what becomes _available_ and what becomes _possible_
+- **Reader left inspired and motivated** — Every file ends with the reader wanting to continue the journey
+- **Firm and unapologetic** — The author does not hedge, apologize, or soften the message
+- **Language of transformation** — Words like "extraordinary," "powerful," "transformative," "remarkable," "liberating" used consistently
 
 ### Content Specificity
 
@@ -64,9 +84,9 @@ All content in each book's files is **specific to that book's 10 chapters**:
 
 - **Introductions** reference specific chapter topics and themes for that book
 - **Epilogues** recap what was covered in that book's specific chapters
-- **Prologues** set up the thematic territory of that specific book
+- **Prologues** set up the thematic territory of that specific book through personal narrative
 - **Prefaces** summarize previous books and preview the current book's content
-- **Descriptions** list chapter-specific bullet points for that book
+- **Descriptions** list chapter-specific bullet points for that book, plus series cross-references
 - **Copyright pages** include the specific book title and number
 - **Dedications** are unique to each book (all to Nimisha Acharya, with different wording)
 - **Epigraphs** are unique to each book (different quotes thematically aligned)
