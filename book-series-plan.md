@@ -339,6 +339,33 @@ _A five-book journey from the failure of belief to the freedom of reality._
 
 ---
 
+## Chapter Rewrites — Completed
+
+All 50 chapters across all 5 books have been fully rewritten in the `book-series/` folder with the inspirational, firm, unapologetic tone defined in the Content Strategy above. The original chapters in `book-content/` remain unmodified.
+
+### Rewrite Guidelines Applied
+
+- Every chapter rewritten with **inspirational, firm, unapologetic, page-turner tone**
+- Emphasis on **empowerment and motivation** — every insight framed in terms of what becomes available and possible
+- **Em dashes** used throughout for rhetorical emphasis and flow
+- Each concept presented as **practically powerful** and **immediately valuable**
+- The person who practices each skill is consistently described as gaining **extraordinary advantages**
+- **Last chapter of each book** (10, 20, 30, 40, 50) includes a **strong hook** to the next book in the series (or series conclusion for Book 5)
+- Chapter 41 opens with a **bridge paragraph** connecting Books 1–4 to Book 5's territory
+- All rewrites maintain the **original conceptual content** while transforming presentation and energy
+
+### Rewrite Status
+
+| Book | Chapters | Status      |
+| ---- | -------- | ----------- |
+| 1    | 1–10     | ✅ Complete |
+| 2    | 11–20    | ✅ Complete |
+| 3    | 21–30    | ✅ Complete |
+| 4    | 31–40    | ✅ Complete |
+| 5    | 41–50    | ✅ Complete |
+
+---
+
 ## Notes
 
 - Each book contains **10 chapters** from the original manuscript, in order, with no chapters rearranged.
