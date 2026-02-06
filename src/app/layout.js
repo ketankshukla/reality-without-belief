@@ -1,14 +1,14 @@
 export const metadata = {
-  title: "Reality Without Belief - A Radical New Philosophy",
+  title: "Reality Without Belief — A Five-Book Series by Ketan Shukla",
   description:
-    "Stop believing. Stop disbelieving. Start dealing with what is. A complete exit from the belief-disbelief game.",
+    "Stop believing. Stop disbelieving. Start dealing with what is. A groundbreaking five-book series that will fundamentally transform how you see yourself, your world, and your place in it.",
   keywords:
-    "philosophy, belief, reality, critical thinking, self-help, Ketan Shukla",
+    "philosophy, belief, reality, critical thinking, self-help, Ketan Shukla, book series, what is so",
   authors: [{ name: "Ketan Shukla" }],
   openGraph: {
-    title: "Reality Without Belief",
+    title: "Reality Without Belief — A Five-Book Series",
     description:
-      "Stop believing. Stop disbelieving. Start dealing with what is.",
+      "Stop believing. Stop disbelieving. Start dealing with what is. The complete five-book series.",
     type: "website",
   },
 };
