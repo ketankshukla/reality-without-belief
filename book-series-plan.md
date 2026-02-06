@@ -22,7 +22,6 @@ book-series/
 │   ├── chapters/               (10 chapter markdown files)
 │   ├── chapter-summaries/      (10 concise chapter summary files)
 │   ├── book-summary/           (5-minute AI video script for the book)
-│   ├── text-files/             (10 plain text chapter files, no markdown)
 │   └── image-prompts/          (5 book cover image generation prompts)
 ├── Reality Without Belief Book 2 - Facing Reality Without Interpretation, Meaning, or Comfort/
 │   ├── front_matter/
@@ -31,7 +30,6 @@ book-series/
 │   ├── chapters/
 │   ├── chapter-summaries/
 │   ├── book-summary/
-│   ├── text-files/
 │   └── image-prompts/
 ├── Reality Without Belief Book 3 - How Culture, Identity, and Outrage Replace Thinking/
 │   ├── front_matter/
@@ -40,7 +38,6 @@ book-series/
 │   ├── chapters/
 │   ├── chapter-summaries/
 │   ├── book-summary/
-│   ├── text-files/
 │   └── image-prompts/
 ├── Reality Without Belief Book 4 - How to See, Listen, Decide, and Respond Without Belief/
 │   ├── front_matter/
@@ -49,7 +46,6 @@ book-series/
 │   ├── chapters/
 │   ├── chapter-summaries/
 │   ├── book-summary/
-│   ├── text-files/
 │   └── image-prompts/
 └── Reality Without Belief Book 5 - Freedom, Loneliness, Death, and What Remains/
     ├── front_matter/
@@ -58,7 +54,6 @@ book-series/
     ├── chapters/
     ├── chapter-summaries/
     ├── book-summary/
-    ├── text-files/
     └── image-prompts/
 ```
 
@@ -70,7 +65,6 @@ Each book folder contains the following subfolders:
 - **chapters/**: 10 chapter markdown files with full chapter content (10 files)
 - **chapter-summaries/**: 10 concise chapter summary files for verbal delivery in 3 minutes or less (10 files)
 - **book-summary/**: 1 inspirational 5-minute AI video script summarizing the entire book (1 file)
-- **text-files/**: 10 plain text versions of chapters without markdown formatting (10 files)
 - **image-prompts/**: 5 exceptional 9:16 book cover image generation prompts (1 file)
 
 Additionally, the `book-series/` root contains `ai-image-tools.md` — a guide to the best AI image generation tools for creating realistic, compelling book cover images.
@@ -423,12 +417,6 @@ Each book contains 1 inspirational summary document designed as a **5-minute AI 
 
 **Naming convention:** `book_[N]_summary.md`
 
-### Text Files (`text-files/`)
-
-Each book contains 10 plain text versions of the chapters — **identical content to the chapter markdown files but without any markdown formatting**. Designed for copy-paste into book creation apps.
-
-**Naming convention:** `chapter_[NN]_[title_slug].txt`
-
 ### Image Prompts (`image-prompts/`)
 
 Each book contains 1 file with **5 exceptional image generation prompts** for a 9:16 portrait book cover. Prompts follow these specifications:
@@ -455,13 +443,13 @@ A standalone file in the `book-series/` root recommending the best AI image gene
 
 ### Asset Status
 
-| Book | Chapter Summaries | Book Summary | Text Files       | Image Prompts           |
-| ---- | ----------------- | ------------ | ---------------- | ----------------------- |
-| 1    | ✅ Complete (10)  | ✅ Complete  | ✅ Complete (10) | ✅ Complete (5 prompts) |
-| 2    | ✅ Complete (10)  | ✅ Complete  | ✅ Complete (10) | ✅ Complete (5 prompts) |
-| 3    | ✅ Complete (10)  | ✅ Complete  | ✅ Complete (10) | ✅ Complete (5 prompts) |
-| 4    | ✅ Complete (10)  | ✅ Complete  | ✅ Complete (10) | ✅ Complete (5 prompts) |
-| 5    | ✅ Complete (10)  | ✅ Complete  | ✅ Complete (10) | ✅ Complete (5 prompts) |
+| Book | Chapter Summaries | Book Summary | Image Prompts           |
+| ---- | ----------------- | ------------ | ----------------------- |
+| 1    | ✅ Complete (10)  | ✅ Complete  | ✅ Complete (5 prompts) |
+| 2    | ✅ Complete (10)  | ✅ Complete  | ✅ Complete (5 prompts) |
+| 3    | ✅ Complete (10)  | ✅ Complete  | ✅ Complete (5 prompts) |
+| 4    | ✅ Complete (10)  | ✅ Complete  | ✅ Complete (5 prompts) |
+| 5    | ✅ Complete (10)  | ✅ Complete  | ✅ Complete (5 prompts) |
 
 **AI Image Tools Guide:** ✅ Complete
 
