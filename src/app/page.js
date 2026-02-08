@@ -1,7 +1,7 @@
 "use client";
 
-import BookSeriesPage from "@/components/BookSeriesPage";
+import RealityWithoutBeliefNew from "@/components/RealityWithoutBeliefNew";
 
 export default function Home() {
-  return <BookSeriesPage />;
+  return <RealityWithoutBeliefNew />;
 }

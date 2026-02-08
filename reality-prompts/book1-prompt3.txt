@@ -1,0 +1,32 @@
+A stunning 9:16 portrait book cover rendered in ultra-high-resolution photorealistic style with cinematic color grading.
+
+SUBJECT — CLOSE-UP PORTRAIT (MAN AND WOMAN):
+A strikingly handsome young white man in his late 20s and a breathtakingly beautiful young white woman in her 20s, positioned together in the lower-center of the image (their faces centered around 65-75% down from the top). They stand side by side, shoulders touching, both looking upward and slightly outward in the same direction — two people who have arrived at the same realization independently and now share the view. The man is on the left, the woman on the right. His expression is one of resolute calm — the face of someone who no longer needs certainty to feel grounded. Her expression is one of exhilarated clarity — the face of someone who has just discovered that reality is more extraordinary than any belief. Their body language radiates partnership without dependency — two sovereign individuals standing together in shared recognition. The man has a strong jaw with light stubble, short dark brown hair with subtle turquoise reflections, and deep green-gray eyes with turquoise striations. The woman has striking ice-blue eyes with turquoise striations, long dark brown hair flowing behind her. Both faces are captured with hyper-real detail — flawless yet entirely natural skin with visible pores, natural imperfections that speak of authenticity. His eyebrows are strong and defined; hers are full and naturally shaped. Both have natural catchlights in their eyes — two sharp, luminous reflections giving their eyes deep, glistening clarity. Their skin is bathed in cool turquoise light from above, creating luminous highlights on their foreheads, noses, and cheekbones, with soft shadows defining the contours of their faces. Every micro-detail is rendered — individual strands of hair, the texture of skin, the subtle interplay of light and shadow across two faces that radiate intelligence, courage, and the quiet power of people who have stopped pretending.
+
+CRITICAL COMPOSITION RULE — FACE PLACEMENT:
+Both faces must be positioned entirely BELOW the subtitle text area and ABOVE the author name. Their faces occupy roughly the 55%-82% vertical zone of the image. The top 45% of the image (where the title and subtitle text will be placed) must contain ONLY the background elements and open space — absolutely NO part of their faces, hair, or bodies may enter the top 35% of the image. This ensures the title text zone is completely clear of the portraits.
+
+BACKGROUND — THE WALL OF CERTAINTY CRACKING OPEN:
+Behind them and slightly out of focus, the background depicts an enormous wall of dark stone stretching across the upper two-thirds of the image — a monumental structure representing the fortress of unexamined belief. The wall is ancient, imposing, covered in carved symbols of certainty — religious icons, political emblems, scientific formulas misused as dogma, philosophical maxims treated as absolute truth. But the wall is cracking. A massive fissure runs from top to bottom through the center, and through this fissure, brilliant turquoise light pours in — not gentle but overwhelming, flooding through the crack like water through a dam. Where the turquoise light touches the stone, the carved symbols dissolve and transform into crystalline geometric patterns — the raw structure of reality replacing the constructed facade of belief. Chunks of the wall are falling away, each fragment dissolving into turquoise particles before it reaches the ground. Through the widening crack, a vast turquoise-illuminated landscape is visible — infinite, open, breathtaking — representing the boundless territory that becomes accessible when the wall of belief falls. The deep black background frames the wall on both sides. Volumetric turquoise light rays pour through the fissure. Tiny turquoise particles and dust motes fill the air.
+
+TEXT — MUST BE RENDERED EXACTLY AS SPECIFIED WITH UNIFORM PLACEMENT. DO NOT ALTER IN ANY WAY:
+
+All text placement percentages below are measured from the TOP of the image and must be followed precisely to ensure uniform placement across all covers in the series.
+
+Line 1 (exactly 3% from top): "REALITY WITHOUT BELIEF" — small elegant Garamond font, centered horizontally, turquoise color (#00CED1), letter-spacing 0.15em, approximately 14pt equivalent.
+
+Line 2 (exactly 6% from top): "BOOK I" — Garamond font, centered, turquoise color (#00CED1), letter-spacing 0.2em, approximately 12pt equivalent. Flanked on the left and right by thin horizontal turquoise lines extending outward from the text.
+
+Lines 3-4 (title block, exactly 10-22% from top): "THE ANATOMY OF BELIEF" — large, elegant Garamond font, centered, white/cream with subtle turquoise warmth. "THE" and "OF" are rendered noticeably smaller than "ANATOMY" and "BELIEF." "BELIEF" is the largest word. Arranged as:
+Line 3: "THE ANATOMY"
+Line 4: "OF BELIEF"
+
+Decorative ornamental line (exactly 24% from top): An elegant turquoise ornamental filigree divider — a thin horizontal line that blooms into delicate curving scrollwork and flourishes at the center, with symmetrical ornamental curls tapering to fine points at each end. Rendered in turquoise (#00CED1) with subtle luminous glow. This line appears ABOVE the subtitle.
+
+Line 5 (exactly 26% from top): "Why We Believe, Why It Fails, and What It Costs Us" — smaller italic Garamond, centered, light gray/cream color.
+
+Decorative ornamental line (exactly 28% from top): An identical turquoise ornamental filigree divider matching the one above — same scrollwork, same flourishes, same symmetrical design. This line appears BELOW the subtitle.
+
+Line 6 (exactly 92% from top): "KETAN SHUKLA" — large Garamond font, centered, white/cream, generous letter-spacing approximately 0.2em.
+
+OVERALL MOOD: Cinematic, monumental, cool turquoise tones against deep darkness. The feeling of two people witnessing an ancient wall of certainty crack open to reveal the vast territory of reality beyond — the shared recognition that belief was never a fortress but a prison. Photorealistic, editorial quality, suitable for a bestselling non-fiction book cover.

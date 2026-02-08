@@ -1,0 +1,32 @@
+A stunning 9:16 portrait book cover rendered in ultra-high-resolution photorealistic style with cinematic color grading.
+
+SUBJECT — CLOSE-UP PORTRAIT (MAN):
+A strikingly handsome young white man in his late 20s, positioned in the lower-left quadrant of the image (his face centered around 65-75% down from the top, offset slightly left of center). He is captured in a close-up three-quarter portrait, his face large and dominant, filling the lower-left portion of the frame. His head is tilted slightly to one side, his expression one of deep, genuine listening — not the performance of attention, but the real thing: a man who has learned to receive what someone is actually communicating without filtering it through his own needs, opinions, or agenda. His eyes are soft but attentive — focused on something slightly to the right and below, as if giving his full presence to someone speaking. His lips are slightly parted, relaxed — the mouth of someone who is not preparing a response but simply receiving. One hand is raised near his ear, palm open and facing forward — the instinctive gesture of someone leaning in to hear more clearly, to catch what is actually being said rather than what he expects to hear. His face is captured with hyper-real detail — natural skin with visible pores across his nose and cheeks, a well-groomed stubble along his strong jaw catching turquoise light, subtle expression lines at the corners of his eyes that speak of genuine engagement with life. His eyebrows are strong, relaxed and open, with individual hairs visible. His eyes are warm yet penetrating — large, deep-set, striking gray-green irises with turquoise striations radiating outward from the pupil, each striation a slightly different shade of sage and teal. Natural catchlights — two sharp, luminous reflections — sit in the upper portion of each iris, giving his eyes a quality of deep, receptive attention. His lashes are dark and naturally defined. He is remarkably handsome yet radiates the rare quality of genuine presence — the look of a man who makes you feel heard because he actually is hearing you. His skin is bathed in cool turquoise light from the right, creating luminous highlights on his forehead, the bridge of his nose, and his cheekbones. His short dark brown hair is neatly styled with subtle turquoise reflections.
+
+CRITICAL COMPOSITION RULE — FACE PLACEMENT:
+The man's face must be positioned entirely BELOW the subtitle text area and ABOVE the author name. His face occupies roughly the 55%-82% vertical zone of the image. The top 45% of the image must contain ONLY the background elements and open space — absolutely NO part of his face, hair, or hand may enter the top 35% of the image.
+
+BACKGROUND — LISTENING WITHOUT AGENDA:
+Behind him and slightly out of focus, the background depicts a stunning visualization of pure listening versus distorted listening. The upper two-thirds of the image is filled with an enormous visualization of sound waves — but rendered in two distinct modes. On the left side, sound waves are depicted as chaotic, distorted waveforms in harsh silver and gray — each wave overlaid with ghostly text showing the listener's internal commentary: "I disagree," "That reminds me of," "I already know," "When is my turn to speak" — representing listening filtered through agenda. These distorted waves collide and cancel each other out, producing noise and static. On the right side — the side the man is turned toward — the sound waves transform into clean, pure, turquoise waveforms. These waves are smooth, precise, and luminous — each one carrying its signal without distortion, without interference from the listener's needs. The transition between the two modes happens at the exact center of the image — the chaotic gray waves are being converted into clean turquoise waves by passing through a vertical plane of pure turquoise light that acts as a filter removing all agenda, all internal commentary, all distortion. The clean turquoise waves continue beyond the man, flowing smoothly past him as he receives them fully. The deep black background provides dramatic contrast. Volumetric turquoise light radiates from the purifying plane. Tiny turquoise sound particles drift through the scene like luminous notes.
+
+TEXT — MUST BE RENDERED EXACTLY AS SPECIFIED WITH UNIFORM PLACEMENT. DO NOT ALTER IN ANY WAY:
+
+All text placement percentages below are measured from the TOP of the image and must be followed precisely to ensure uniform placement across all covers in the series.
+
+Line 1 (exactly 3% from top): "REALITY WITHOUT BELIEF" — small elegant Garamond font, centered horizontally, turquoise color (#00CED1), letter-spacing 0.15em, approximately 14pt equivalent.
+
+Line 2 (exactly 6% from top): "BOOK IV" — Garamond font, centered, turquoise color (#00CED1), letter-spacing 0.2em, approximately 12pt equivalent. Flanked on the left and right by thin horizontal turquoise lines extending outward from the text.
+
+Lines 3-4 (title block, exactly 10-22% from top): "THE PRACTICE OF CLEAR SEEING" — large, elegant Garamond font, centered, white/cream with subtle turquoise warmth. "THE" and "OF" are rendered noticeably smaller than "PRACTICE," "CLEAR," and "SEEING." "SEEING" is the largest word. Arranged as:
+Line 3: "THE PRACTICE OF"
+Line 4: "CLEAR SEEING"
+
+Decorative ornamental line (exactly 24% from top): An elegant turquoise ornamental filigree divider — a thin horizontal line that blooms into delicate curving scrollwork and flourishes at the center, with symmetrical ornamental curls tapering to fine points at each end. Rendered in turquoise (#00CED1) with subtle luminous glow.
+
+Line 5 (exactly 26% from top): "How to See, Listen, Decide, and Respond Without Belief" — smaller italic Garamond, centered, light gray/cream color.
+
+Decorative ornamental line (exactly 28% from top): An identical turquoise ornamental filigree divider matching the one above — same scrollwork, same flourishes, same symmetrical design.
+
+Line 6 (exactly 92% from top): "KETAN SHUKLA" — large Garamond font, centered, white/cream, generous letter-spacing approximately 0.2em.
+
+OVERALL MOOD: Cinematic, intimate, cool turquoise tones against deep darkness. The feeling of genuine listening — the rare and powerful experience of receiving what is actually being communicated without agenda, without distortion, without the noise of internal commentary. Photorealistic, editorial quality, suitable for a bestselling non-fiction book cover.

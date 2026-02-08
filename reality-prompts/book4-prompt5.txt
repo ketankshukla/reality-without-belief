@@ -1,0 +1,32 @@
+A stunning 9:16 portrait book cover rendered in ultra-high-resolution photorealistic style with cinematic color grading.
+
+SUBJECT — CLOSE-UP PORTRAIT (MAN):
+A strikingly handsome young white man in his late 20s, positioned in the lower-right quadrant of the image (his face centered around 65-75% down from the top, offset slightly right of center). He is captured in a close-up three-quarter portrait, his face large and dominant, filling the lower-right portion of the frame. His expression is one of extraordinary humility combined with strength — the face of a man who has learned to let reality correct him, who welcomes being wrong because he has discovered that wrongness faced honestly is always an advance, never a defeat. His head is bowed very slightly — not in shame, but in the dignified gesture of someone receiving correction with grace. His eyes are open and attentive, looking slightly downward and to the left, soft with receptivity yet strong with the confidence of a man who knows that his willingness to be corrected is his greatest asset. His hands are open at his sides, palms facing slightly forward — the body language of someone who holds nothing so tightly that reality cannot take it away. His face is captured with hyper-real detail — natural skin with visible pores across his nose and cheeks, a well-groomed stubble along his strong jaw catching turquoise light, subtle lines of genuine character around his eyes. His eyebrows are strong, relaxed and open, with individual hairs visible. His eyes are warm and deep — large, striking gray-green irises with turquoise striations radiating outward from the pupil, each striation alive with the light of someone who has stopped defending and started learning. Natural catchlights — two sharp, luminous reflections — sit in the upper portion of each iris, giving his eyes a quality of humble, powerful clarity. His lashes are dark and naturally defined. His lips are slightly parted, relaxed — the mouth of a man who says "I was wrong" without flinching because he has discovered the extraordinary power in those words. He is remarkably handsome yet radiates the rare combination of strength and surrender — the look of a man who is unbreakable precisely because he does not resist being reshaped by what is true. His skin is bathed in cool turquoise light from above, creating luminous highlights across his face. His short dark brown hair is neatly styled with subtle turquoise reflections.
+
+CRITICAL COMPOSITION RULE — FACE PLACEMENT:
+The man's face must be positioned entirely BELOW the subtitle text area and ABOVE the author name. His face occupies roughly the 55%-82% vertical zone of the image. The top 45% of the image must contain ONLY the background elements and open space — absolutely NO part of his face, hair, or hands may enter the top 35% of the image.
+
+BACKGROUND — LETTING REALITY CORRECT YOU:
+Behind him and slightly out of focus, the background depicts a breathtaking visualization of correction as empowerment. An enormous compass dominates the upper two-thirds of the image — but this is not an ordinary compass. It is a vast, three-dimensional turquoise crystalline instrument suspended in black space, its needle a long, luminous turquoise arrow. The compass needle is in the act of swinging — moving from an old, incorrect direction (marked by a fading gray arrow pointing left) to a new, accurate direction (the turquoise needle now pointing right). The swing of the needle creates a luminous turquoise arc — a trail of light that traces the path of correction. Around the compass, old directional markers are dissolving — gray signposts labeled "what I believed," "what I assumed," "what I insisted" are crumbling into particles. New directional markers are crystallizing in turquoise — clean, precise, unlabeled geometric indicators that point toward what is actually so rather than toward what was believed. At the base of the compass, a turquoise foundation stone is engraved with a faint geometric pattern representing the principle: accuracy is more powerful than being right. The deep black background provides dramatic contrast. Volumetric turquoise light radiates from the compass needle's new position. Tiny turquoise particles trace the arc of correction throughout the scene.
+
+TEXT — MUST BE RENDERED EXACTLY AS SPECIFIED WITH UNIFORM PLACEMENT. DO NOT ALTER IN ANY WAY:
+
+All text placement percentages below are measured from the TOP of the image and must be followed precisely to ensure uniform placement across all covers in the series.
+
+Line 1 (exactly 3% from top): "REALITY WITHOUT BELIEF" — small elegant Garamond font, centered horizontally, turquoise color (#00CED1), letter-spacing 0.15em, approximately 14pt equivalent.
+
+Line 2 (exactly 6% from top): "BOOK IV" — Garamond font, centered, turquoise color (#00CED1), letter-spacing 0.2em, approximately 12pt equivalent. Flanked on the left and right by thin horizontal turquoise lines extending outward from the text.
+
+Lines 3-4 (title block, exactly 10-22% from top): "THE PRACTICE OF CLEAR SEEING" — large, elegant Garamond font, centered, white/cream with subtle turquoise warmth. "THE" and "OF" are rendered noticeably smaller than "PRACTICE," "CLEAR," and "SEEING." "SEEING" is the largest word. Arranged as:
+Line 3: "THE PRACTICE OF"
+Line 4: "CLEAR SEEING"
+
+Decorative ornamental line (exactly 24% from top): An elegant turquoise ornamental filigree divider — a thin horizontal line that blooms into delicate curving scrollwork and flourishes at the center, with symmetrical ornamental curls tapering to fine points at each end. Rendered in turquoise (#00CED1) with subtle luminous glow.
+
+Line 5 (exactly 26% from top): "How to See, Listen, Decide, and Respond Without Belief" — smaller italic Garamond, centered, light gray/cream color.
+
+Decorative ornamental line (exactly 28% from top): An identical turquoise ornamental filigree divider matching the one above — same scrollwork, same flourishes, same symmetrical design.
+
+Line 6 (exactly 92% from top): "KETAN SHUKLA" — large Garamond font, centered, white/cream, generous letter-spacing approximately 0.2em.
+
+OVERALL MOOD: Cinematic, dignified, cool turquoise tones against deep darkness. The feeling of welcoming correction — the compass of perception swinging toward accuracy, the extraordinary strength of a man who lets reality reshape his understanding without resistance. Photorealistic, editorial quality, suitable for a bestselling non-fiction book cover.

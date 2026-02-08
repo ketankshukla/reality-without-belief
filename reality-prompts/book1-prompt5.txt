@@ -1,0 +1,32 @@
+A stunning 9:16 portrait book cover rendered in ultra-high-resolution photorealistic style with cinematic color grading.
+
+SUBJECT — CHILDREN:
+Two young white children — a boy and a girl, both around 8-10 years old — positioned together in the lower-center of the image (their faces centered around 65-75% down from the top). The girl is on the left, the boy on the right, standing close together with their shoulders almost touching. Both are looking upward with wide, luminous eyes filled with pure, unfiltered wonder — the natural clarity of children who have not yet learned to replace seeing with believing. The girl has long light brown hair that catches turquoise light, wide hazel-green eyes with turquoise reflections, and a scattering of freckles across her nose. The boy has short sandy brown hair, bright blue-green eyes with turquoise striations, and a slightly gap-toothed smile. Both faces radiate the uncomplicated honesty of children who see what is actually there — no interpretive filters, no identity constructions, no emotional investments in being right. The girl's expression is one of delighted curiosity — mouth slightly open, eyes wide, as if seeing something magnificent for the first time. The boy's expression is one of fearless engagement — a slight grin, eyes bright and focused, completely present. Both faces are captured with hyper-real detail — the translucent quality of young skin, the way light passes through the edges of their ears, the tiny individual hairs of their eyebrows, the natural flush of their cheeks. Natural catchlights sit in their eyes, giving them a glistening, alive quality. Their skin is bathed in cool turquoise light from above, creating soft luminous highlights on their foreheads and cheeks. Every micro-detail is rendered — the way the girl's hair parts naturally, the small dimple on the boy's left cheek, the way turquoise light dances across their young, unmarked faces.
+
+CRITICAL COMPOSITION RULE — FACE PLACEMENT:
+The children's faces must be positioned entirely BELOW the subtitle text area and ABOVE the author name. Their faces occupy roughly the 55%-82% vertical zone of the image. The top 45% of the image (where the title and subtitle text will be placed) must contain ONLY the background elements and open space — absolutely NO part of their faces, hair, or bodies may enter the top 35% of the image. This ensures the title text zone is completely clear of the portraits.
+
+BACKGROUND — INNOCENCE VERSUS THE ARCHITECTURE OF BELIEF:
+Behind the children and slightly out of focus, the background is divided into a powerful visual contrast. On the left side, a towering, complex, oppressive architecture of belief looms — enormous dark structures resembling cathedral-like buildings made of interlocking dogmas, stacked books of doctrine, twisted philosophical arguments rendered as dark iron scaffolding, all interconnected by heavy chains. This belief architecture is imposing, intricate, and suffocating — representing everything adults construct to avoid facing reality directly. On the right side, the architecture gives way to open, clear, infinite space illuminated by pure turquoise light — a vast crystalline landscape of geometric honesty, representing reality as it actually is: simple, direct, breathtaking. The children stand at the exact boundary between these two worlds, their faces illuminated by the turquoise light from the right. Where the turquoise light touches the belief architecture on the left, the dark structures dissolve into turquoise particles that drift upward like luminous fireflies. The contrast is stark — the complexity and weight of belief on one side, the clarity and freedom of reality on the other — and the children, with their natural, unconditioned seeing, stand at the threshold. Tiny turquoise particles and luminous dust motes fill the air throughout the scene.
+
+TEXT — MUST BE RENDERED EXACTLY AS SPECIFIED WITH UNIFORM PLACEMENT. DO NOT ALTER IN ANY WAY:
+
+All text placement percentages below are measured from the TOP of the image and must be followed precisely to ensure uniform placement across all covers in the series.
+
+Line 1 (exactly 3% from top): "REALITY WITHOUT BELIEF" — small elegant Garamond font, centered horizontally, turquoise color (#00CED1), letter-spacing 0.15em, approximately 14pt equivalent.
+
+Line 2 (exactly 6% from top): "BOOK I" — Garamond font, centered, turquoise color (#00CED1), letter-spacing 0.2em, approximately 12pt equivalent. Flanked on the left and right by thin horizontal turquoise lines extending outward from the text.
+
+Lines 3-4 (title block, exactly 10-22% from top): "THE ANATOMY OF BELIEF" — large, elegant Garamond font, centered, white/cream with subtle turquoise warmth. "THE" and "OF" are rendered noticeably smaller than "ANATOMY" and "BELIEF." "BELIEF" is the largest word. Arranged as:
+Line 3: "THE ANATOMY"
+Line 4: "OF BELIEF"
+
+Decorative ornamental line (exactly 24% from top): An elegant turquoise ornamental filigree divider — a thin horizontal line that blooms into delicate curving scrollwork and flourishes at the center, with symmetrical ornamental curls tapering to fine points at each end. Rendered in turquoise (#00CED1) with subtle luminous glow. This line appears ABOVE the subtitle.
+
+Line 5 (exactly 26% from top): "Why We Believe, Why It Fails, and What It Costs Us" — smaller italic Garamond, centered, light gray/cream color.
+
+Decorative ornamental line (exactly 28% from top): An identical turquoise ornamental filigree divider matching the one above — same scrollwork, same flourishes, same symmetrical design. This line appears BELOW the subtitle.
+
+Line 6 (exactly 92% from top): "KETAN SHUKLA" — large Garamond font, centered, white/cream, generous letter-spacing approximately 0.2em.
+
+OVERALL MOOD: Cinematic, poignant, cool turquoise tones against deep darkness. The feeling of childhood's natural clarity standing at the boundary between the oppressive architecture of belief and the infinite openness of reality — a visual reminder that we were all born seeing clearly, before we were taught to believe instead. Photorealistic, editorial quality, suitable for a bestselling non-fiction book cover.

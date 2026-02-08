@@ -1,0 +1,32 @@
+A stunning 9:16 portrait book cover rendered in ultra-high-resolution photorealistic style with cinematic color grading.
+
+SUBJECT — CLOSE-UP PORTRAIT (MAN):
+A strikingly handsome young white man in his late 20s, positioned in the lower-left quadrant of the image (his face centered around 65-75% down from the top, offset slightly left of center). He is captured in a close-up three-quarter portrait, his face large and dominant, filling the lower-left portion of the frame. He is looking slightly to the right and downward with a contemplative, philosophical expression — the look of a man who has examined every belief he ever held and found the courage to set them all aside. His jaw is strong and well-defined, with a light stubble that catches the turquoise light. His right hand rests beneath his chin in a variation of the thinker's pose — not performative, but genuine, the natural resting position of a mind that has stopped seeking comfort in certainty. His face is captured with hyper-real detail — natural skin with visible pores across his nose and cheeks, the faintest texture of shaved stubble along his jawline, subtle laugh lines at the corners of his eyes that speak of genuine living. His eyebrows are strong, naturally shaped, with individual hairs visible. His eyes are deep-set and penetrating — large, striking green-gray irises with turquoise striations radiating outward from the pupil, each striation a slightly different shade of sage and teal. Natural catchlights — two sharp, luminous reflections — sit in the upper portion of each iris, giving his eyes a deep, glistening clarity. His lashes are dark and naturally defined. His lips are firm, slightly parted in quiet resolution — not a smile, but the settled expression of someone who has arrived at something true. He is remarkably handsome yet radiates substance and depth — no arrogance, only quiet intellectual power and hard-won wisdom. His skin is bathed in cool turquoise light from the left, creating luminous highlights on his forehead, the ridge of his brow, and his cheekbones, while soft shadows define the planes of his face on the right. Every micro-detail is rendered — a small scar through his left eyebrow, the way individual strands of his short dark brown hair catch the light, the texture of his collar where it meets his neck. His hair is neatly styled but natural, with subtle turquoise reflections.
+
+CRITICAL COMPOSITION RULE — FACE PLACEMENT:
+The man's face must be positioned entirely BELOW the subtitle text area and ABOVE the author name. His face occupies roughly the 55%-82% vertical zone of the image. The top 45% of the image (where the title and subtitle text will be placed) must contain ONLY the background elements and open space — absolutely NO part of his face, hair, or hand may enter the top 35% of the image. This ensures the title text zone is completely clear of the portrait.
+
+BACKGROUND — THE EMOTIONAL ECONOMY OF BELIEF:
+Behind him and slightly out of focus, the background depicts a staggering visualization of the emotional architecture that sustains belief. An enormous, intricate web of luminous turquoise threads stretches across the upper two-thirds of the image — each thread connecting identical glowing nodes that pulse with light, representing the emotional investments humans make in their beliefs. Some nodes are labeled with faintly visible words — "identity," "belonging," "comfort," "rightness," "certainty" — each word rendered in ghostly silver. At the center of the web, several threads are snapping cleanly, their broken ends dissolving into turquoise sparks and drifting apart, creating a widening gap of clear black space — representing the moment when emotional attachment to belief is recognized and released. Through the gap, a vast crystalline structure is visible — geometric, precise, beautiful — representing the architecture of reality that was always hidden behind the emotional web. The deep black background provides dramatic contrast, with subtle cool teal atmospheric haze. Volumetric turquoise light radiates from the breaking point in the web, casting long rays through the remaining threads. Tiny turquoise particles float throughout the scene like luminous dust.
+
+TEXT — MUST BE RENDERED EXACTLY AS SPECIFIED WITH UNIFORM PLACEMENT. DO NOT ALTER IN ANY WAY:
+
+All text placement percentages below are measured from the TOP of the image and must be followed precisely to ensure uniform placement across all covers in the series.
+
+Line 1 (exactly 3% from top): "REALITY WITHOUT BELIEF" — small elegant Garamond font, centered horizontally, turquoise color (#00CED1), letter-spacing 0.15em, approximately 14pt equivalent.
+
+Line 2 (exactly 6% from top): "BOOK I" — Garamond font, centered, turquoise color (#00CED1), letter-spacing 0.2em, approximately 12pt equivalent. Flanked on the left and right by thin horizontal turquoise lines extending outward from the text.
+
+Lines 3-4 (title block, exactly 10-22% from top): "THE ANATOMY OF BELIEF" — large, elegant Garamond font, centered, white/cream with subtle turquoise warmth. "THE" and "OF" are rendered noticeably smaller than "ANATOMY" and "BELIEF." "BELIEF" is the largest word. Arranged as:
+Line 3: "THE ANATOMY"
+Line 4: "OF BELIEF"
+
+Decorative ornamental line (exactly 24% from top): An elegant turquoise ornamental filigree divider — a thin horizontal line that blooms into delicate curving scrollwork and flourishes at the center, with symmetrical ornamental curls tapering to fine points at each end. Rendered in turquoise (#00CED1) with subtle luminous glow. This line appears ABOVE the subtitle.
+
+Line 5 (exactly 26% from top): "Why We Believe, Why It Fails, and What It Costs Us" — smaller italic Garamond, centered, light gray/cream color.
+
+Decorative ornamental line (exactly 28% from top): An identical turquoise ornamental filigree divider matching the one above — same scrollwork, same flourishes, same symmetrical design. This line appears BELOW the subtitle.
+
+Line 6 (exactly 92% from top): "KETAN SHUKLA" — large Garamond font, centered, white/cream, generous letter-spacing approximately 0.2em.
+
+OVERALL MOOD: Cinematic, contemplative, cool turquoise tones against deep darkness. The feeling of a brilliant mind recognizing the emotional machinery that sustains belief — and choosing to disengage from it with quiet power. Photorealistic, editorial quality, suitable for a bestselling non-fiction book cover.

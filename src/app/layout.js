@@ -1,14 +1,20 @@
 export const metadata = {
-  title: "Reality Without Belief — A Five-Book Series by Ketan Shukla",
+  title: "Reality Without Belief - A Radical New Philosophy",
+
   description:
-    "Stop believing. Stop disbelieving. Start dealing with what is. A groundbreaking five-book series that will fundamentally transform how you see yourself, your world, and your place in it.",
+    "Stop believing. Stop disbelieving. Start dealing with what is. A complete exit from the belief-disbelief game.",
+
   keywords:
-    "philosophy, belief, reality, critical thinking, self-help, Ketan Shukla, book series, what is so",
+    "philosophy, belief, reality, critical thinking, self-help, Ketan Shukla",
+
   authors: [{ name: "Ketan Shukla" }],
+
   openGraph: {
-    title: "Reality Without Belief — A Five-Book Series",
+    title: "Reality Without Belief",
+
     description:
-      "Stop believing. Stop disbelieving. Start dealing with what is. The complete five-book series.",
+      "Stop believing. Stop disbelieving. Start dealing with what is.",
+
     type: "website",
   },
 };
@@ -18,16 +24,19 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <head>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
+
         <link
           rel="preconnect"
           href="https://fonts.gstatic.com"
           crossOrigin="anonymous"
         />
+
         <link
           href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap"
           rel="stylesheet"
         />
       </head>
+
       <body style={{ margin: 0, padding: 0 }}>{children}</body>
     </html>
   );

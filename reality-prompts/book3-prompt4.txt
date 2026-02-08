@@ -1,0 +1,32 @@
+A stunning 9:16 portrait book cover rendered in ultra-high-resolution photorealistic style with cinematic color grading.
+
+SUBJECT — CHILDREN:
+Two young white children — a boy and a girl, both around 9-11 years old — positioned together in the lower-center of the image (their faces centered around 65-75% down from the top). The boy is on the left, the girl on the right. They stand apart from each other by a few inches, both facing the viewer with calm, observant expressions — the natural clarity of children who have not yet learned to perform conviction for social approval. The boy's arms hang naturally at his sides, his posture relaxed and unguarded — he has nothing to prove and no opinion to defend. His expression is one of quiet, direct observation — eyes focused, mouth neutral, the look of a child who simply sees what is in front of him without adding narrative. The girl stands with one hand resting lightly on her hip, her head tilted slightly to one side in gentle curiosity — not judgment, not performance, but genuine interest in what she sees. Her expression is one of thoughtful engagement — a slight furrow between her brows, eyes bright and attentive. The boy has short sandy brown hair, bright blue-green eyes with turquoise reflections, and a smattering of freckles across his cheeks. The girl has long light brown hair with turquoise-catching highlights, wide hazel-green eyes with turquoise striations, and a natural flush to her cheeks. Both faces are captured with hyper-real detail — the translucent quality of young skin, the way light passes through the edges of their ears, tiny individual hairs of their eyebrows, the unselfconscious authenticity that only children possess before culture teaches them to perform. Their skin is bathed in cool turquoise light from above, creating soft luminous highlights on their foreheads and cheeks.
+
+CRITICAL COMPOSITION RULE — FACE PLACEMENT:
+The children's faces must be positioned entirely BELOW the subtitle text area and ABOVE the author name. Their faces occupy roughly the 55%-82% vertical zone of the image. The top 45% of the image (where the title and subtitle text will be placed) must contain ONLY the background elements and open space — absolutely NO part of their faces, hair, or bodies may enter the top 35% of the image. This ensures the title text zone is completely clear of the portraits.
+
+BACKGROUND — INNOCENCE BEFORE THE THEATER:
+Behind the children and slightly out of focus, the background depicts a powerful visual allegory. The upper two-thirds of the image is filled with an enormous social media landscape rendered in dark, oppressive tones — towering screens displaying angry comment threads, floating speech bubbles filled with outraged opinions, holographic like/dislike buttons pulsing with aggressive red and toxic orange light, viral content cascading in endless feeds, algorithmic arrows directing attention in manipulative loops. This digital theater of conviction is vast, noisy, overwhelming — the architecture of a world designed to replace thinking with reacting. But directly behind the two children, a dome of turquoise light surrounds them — a protective sphere of unconditioned awareness. Where the turquoise dome meets the social media landscape, the screens crack and dissolve, the speech bubbles pop into turquoise mist, the algorithmic arrows melt away. Inside the dome, the air is clear and still. Outside, the theater rages on. The children stand in the eye of the storm, untouched — not because they are sheltered, but because they have not yet been recruited into the performance. The deep black background provides dramatic contrast beyond the screens. Volumetric turquoise light radiates from within the protective dome. Tiny turquoise particles drift upward from the dissolving screens like liberated data.
+
+TEXT — MUST BE RENDERED EXACTLY AS SPECIFIED WITH UNIFORM PLACEMENT. DO NOT ALTER IN ANY WAY:
+
+All text placement percentages below are measured from the TOP of the image and must be followed precisely to ensure uniform placement across all covers in the series.
+
+Line 1 (exactly 3% from top): "REALITY WITHOUT BELIEF" — small elegant Garamond font, centered horizontally, turquoise color (#00CED1), letter-spacing 0.15em, approximately 14pt equivalent.
+
+Line 2 (exactly 6% from top): "BOOK III" — Garamond font, centered, turquoise color (#00CED1), letter-spacing 0.2em, approximately 12pt equivalent. Flanked on the left and right by thin horizontal turquoise lines extending outward from the text.
+
+Lines 3-4 (title block, exactly 10-22% from top): "THE THEATER OF CONVICTION" — large, elegant Garamond font, centered, white/cream with subtle turquoise warmth. "THE" and "OF" are rendered noticeably smaller than "THEATER" and "CONVICTION." "CONVICTION" is the largest word. Arranged as:
+Line 3: "THE THEATER"
+Line 4: "OF CONVICTION"
+
+Decorative ornamental line (exactly 24% from top): An elegant turquoise ornamental filigree divider — a thin horizontal line that blooms into delicate curving scrollwork and flourishes at the center, with symmetrical ornamental curls tapering to fine points at each end. Rendered in turquoise (#00CED1) with subtle luminous glow. This line appears ABOVE the subtitle.
+
+Line 5 (exactly 26% from top): "How Culture, Identity, and Outrage Replace Thinking" — smaller italic Garamond, centered, light gray/cream color.
+
+Decorative ornamental line (exactly 28% from top): An identical turquoise ornamental filigree divider matching the one above — same scrollwork, same flourishes, same symmetrical design. This line appears BELOW the subtitle.
+
+Line 6 (exactly 92% from top): "KETAN SHUKLA" — large Garamond font, centered, white/cream, generous letter-spacing approximately 0.2em.
+
+OVERALL MOOD: Cinematic, poignant, cool turquoise tones against the harsh glow of digital outrage. The feeling of childhood's natural clarity standing untouched amid the raging theater of online conviction — a reminder that thinking was the default before culture replaced it with performance. Photorealistic, editorial quality, suitable for a bestselling non-fiction book cover.

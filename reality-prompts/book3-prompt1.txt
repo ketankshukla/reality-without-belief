@@ -1,0 +1,32 @@
+A stunning 9:16 portrait book cover rendered in ultra-high-resolution photorealistic style with cinematic color grading.
+
+SUBJECT — CLOSE-UP PORTRAIT (MAN AND WOMAN):
+A strikingly handsome young white man in his late 20s and a breathtakingly beautiful young white woman in her 20s, positioned together in the lower-center of the image (their faces centered around 65-75% down from the top). They are captured mid-stride, walking forward together — toward the viewer — with the confident, unhurried gait of two people who have stepped off a stage and will never return. The man is on the left, the woman on the right. His expression is one of knowing liberation — a slight smile, eyes clear and forward-looking, the face of someone who sees the theater for what it is and has chosen to leave. Her expression is one of exhilarated freedom — a wider smile, eyes bright and alive, the face of someone who has discovered that life beyond performance is infinitely richer than life on stage. Their body language radiates shared purpose without conformity — two individuals moving in the same direction by choice, not by script. The man has a strong jaw with light stubble, short dark brown hair with subtle turquoise reflections, and deep green-gray eyes with turquoise striations. The woman has striking ice-blue eyes with turquoise striations, long dark brown hair flowing behind her with movement. Both faces are captured with hyper-real detail — flawless yet entirely natural skin with visible pores, authentic micro-imperfections, natural catchlights in their eyes giving them deep, glistening clarity. Their skin is bathed in cool turquoise light from directly ahead, as if they are walking toward the source of clarity itself. Every micro-detail is rendered — individual strands of hair in motion, the way fabric catches light as they move, the subtle interplay of turquoise illumination across two faces alive with the power of genuine choice.
+
+CRITICAL COMPOSITION RULE — FACE PLACEMENT:
+Both faces must be positioned entirely BELOW the subtitle text area and ABOVE the author name. Their faces occupy roughly the 55%-82% vertical zone of the image. The top 45% of the image (where the title and subtitle text will be placed) must contain ONLY the background elements and open space — absolutely NO part of their faces, hair, or bodies may enter the top 35% of the image. This ensures the title text zone is completely clear of the portraits.
+
+BACKGROUND — THE GRAND THEATER OF CONVICTION:
+Behind them and slightly out of focus, the background depicts a magnificent, decaying grand theater — an enormous ornate performance hall rendered in dark silvers, grays, and deep blacks. The theater has balconies stacked five levels high, every seat filled with translucent silver-white audience figures who are all performing — gesturing wildly, shaking fists, applauding furiously, shouting silently — engaged in the endless spectacle of conviction. On the theater's vast stage, enormous puppet strings descend from above, attached to nothing — the puppets have already left. The theater's ornate ceiling is cracking, and through the cracks, turquoise light pours in — the light of reality breaking through the constructed spectacle. The two figures (man and woman) are walking away from this theater, toward the viewer, and behind them a wide doorway in the theater's back wall stands open, flooding with turquoise light. The contrast is stark — behind them, the gray, cramped, performative theater; before them (and around the viewer), open turquoise-illuminated space. Where the turquoise light touches the theater walls, the ornate decorations dissolve into particles. The deep black background frames the theater from above. Volumetric turquoise light streams through the open doorway and through the ceiling cracks. Tiny turquoise particles drift forward from the doorway like an invitation.
+
+TEXT — MUST BE RENDERED EXACTLY AS SPECIFIED WITH UNIFORM PLACEMENT. DO NOT ALTER IN ANY WAY:
+
+All text placement percentages below are measured from the TOP of the image and must be followed precisely to ensure uniform placement across all covers in the series.
+
+Line 1 (exactly 3% from top): "REALITY WITHOUT BELIEF" — small elegant Garamond font, centered horizontally, turquoise color (#00CED1), letter-spacing 0.15em, approximately 14pt equivalent.
+
+Line 2 (exactly 6% from top): "BOOK III" — Garamond font, centered, turquoise color (#00CED1), letter-spacing 0.2em, approximately 12pt equivalent. Flanked on the left and right by thin horizontal turquoise lines extending outward from the text.
+
+Lines 3-4 (title block, exactly 10-22% from top): "THE THEATER OF CONVICTION" — large, elegant Garamond font, centered, white/cream with subtle turquoise warmth. "THE" and "OF" are rendered noticeably smaller than "THEATER" and "CONVICTION." "CONVICTION" is the largest word. Arranged as:
+Line 3: "THE THEATER"
+Line 4: "OF CONVICTION"
+
+Decorative ornamental line (exactly 24% from top): An elegant turquoise ornamental filigree divider — a thin horizontal line that blooms into delicate curving scrollwork and flourishes at the center, with symmetrical ornamental curls tapering to fine points at each end. Rendered in turquoise (#00CED1) with subtle luminous glow. This line appears ABOVE the subtitle.
+
+Line 5 (exactly 26% from top): "How Culture, Identity, and Outrage Replace Thinking" — smaller italic Garamond, centered, light gray/cream color.
+
+Decorative ornamental line (exactly 28% from top): An identical turquoise ornamental filigree divider matching the one above — same scrollwork, same flourishes, same symmetrical design. This line appears BELOW the subtitle.
+
+Line 6 (exactly 92% from top): "KETAN SHUKLA" — large Garamond font, centered, white/cream, generous letter-spacing approximately 0.2em.
+
+OVERALL MOOD: Cinematic, dramatic, cool turquoise tones against deep darkness and theatrical grays. The feeling of two people walking out of the grand theater of cultural conviction into the open turquoise light of genuine clarity — leaving performance behind and choosing reality. Photorealistic, editorial quality, suitable for a bestselling non-fiction book cover.

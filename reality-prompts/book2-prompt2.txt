@@ -1,0 +1,32 @@
+A stunning 9:16 portrait book cover rendered in ultra-high-resolution photorealistic style with cinematic color grading.
+
+SUBJECT — CLOSE-UP PORTRAIT (WOMAN):
+A breathtakingly beautiful young white woman in her 20s, positioned in the lower-left quadrant of the image (her face centered around 65-75% down from the top, offset slightly left of center). She is captured in a close-up three-quarter portrait, her face large and dominant, filling the lower-left portion of the frame. She is looking slightly to the right with an expression of profound, settled peace — not the peace of comfort or reassurance, but the deeper peace of someone who has stopped demanding that reality provide meaning and discovered that what remains is more than enough. Her hands are held in front of her chest, palms facing upward, fingers relaxed and slightly cupped — the gesture of receiving what is, without grasping for what she wishes it to be. Her face is captured with hyper-real detail — flawless yet entirely natural skin with visible pores across her nose and cheeks, a scattering of faint freckles across the bridge of her nose, the faintest hint of peach fuzz along her jawline caught by the light. Her eyebrows are full, naturally shaped, with individual hairs visible. Her eyes are serene and luminous — large, striking ice-blue irises with turquoise striations radiating outward from the pupil, each striation a slightly different shade of teal and cerulean. Natural catchlights — two sharp, luminous reflections — sit in the upper portion of each iris, giving her eyes a deep, glistening clarity that speaks of acceptance rather than resignation. Her lashes are thick and dark, naturally fanned, each individually visible. Her lips are soft, naturally pink, curved in the subtlest smile — the expression of someone who has arrived at something true and finds it beautiful precisely because it is real. She is stunningly gorgeous yet radiates depth and groundedness — no performance, only authentic presence. Her skin is bathed in cool turquoise light from the right, creating luminous highlights on her forehead, the bridge of her nose, and her cheekbones. Her long dark brown hair flows behind her, individual strands catching turquoise light and shimmering with teal undertones.
+
+CRITICAL COMPOSITION RULE — FACE PLACEMENT:
+The woman's face must be positioned entirely BELOW the subtitle text area and ABOVE the author name. Her face occupies roughly the 55%-82% vertical zone of the image. The top 45% of the image (where the title and subtitle text will be placed) must contain ONLY the background elements and open space — absolutely NO part of her face, hair, or hands may enter the top 35% of the image. This ensures the title text zone is completely clear of the portrait.
+
+BACKGROUND — TRUTH AND MEANING SEPARATED:
+Behind her and slightly out of focus, the background depicts a breathtaking visualization of truth and meaning as fundamentally different structures. On the left side, an enormous crystalline structure rises — geometric, precise, cold, beautiful — rendered in pure turquoise light. This is truth: angular, exact, indifferent to human preference, following its own laws. Each facet of the crystal reflects reality with perfect accuracy — no distortion, no softening, no comfort. On the right side, a contrasting organic structure floats — a magnificent but translucent tapestry of woven narratives, rendered in warm amber and soft silver. This is meaning: beautiful, human-made, comforting, but fundamentally a construction layered over reality rather than reality itself. Between the two structures, a clear black void separates them — making visible the gap between truth and meaning that most humans never see. Within this gap, tiny turquoise particles drift from left to right, as if truth is slowly, gently dissolving the need for constructed meaning. The crystalline truth structure blazes with internal turquoise bioluminescence, its light far stronger and more enduring than the soft glow of the meaning tapestry. The deep black background provides dramatic contrast. Volumetric turquoise light radiates from the crystal, casting long rays across the scene.
+
+TEXT — MUST BE RENDERED EXACTLY AS SPECIFIED WITH UNIFORM PLACEMENT. DO NOT ALTER IN ANY WAY:
+
+All text placement percentages below are measured from the TOP of the image and must be followed precisely to ensure uniform placement across all covers in the series.
+
+Line 1 (exactly 3% from top): "REALITY WITHOUT BELIEF" — small elegant Garamond font, centered horizontally, turquoise color (#00CED1), letter-spacing 0.15em, approximately 14pt equivalent.
+
+Line 2 (exactly 6% from top): "BOOK II" — Garamond font, centered, turquoise color (#00CED1), letter-spacing 0.2em, approximately 12pt equivalent. Flanked on the left and right by thin horizontal turquoise lines extending outward from the text.
+
+Lines 3-4 (title block, exactly 10-22% from top): "THE NATURE OF WHAT IS SO" — large, elegant Garamond font, centered, white/cream with subtle turquoise warmth. "THE," "OF," and "IS" are rendered noticeably smaller than "NATURE," "WHAT," and "SO." Arranged as:
+Line 3: "THE NATURE OF"
+Line 4: "WHAT IS SO"
+
+Decorative ornamental line (exactly 24% from top): An elegant turquoise ornamental filigree divider — a thin horizontal line that blooms into delicate curving scrollwork and flourishes at the center, with symmetrical ornamental curls tapering to fine points at each end. Rendered in turquoise (#00CED1) with subtle luminous glow. This line appears ABOVE the subtitle.
+
+Line 5 (exactly 26% from top): "Facing Reality Without Interpretation, Meaning, or Comfort" — smaller italic Garamond, centered, light gray/cream color.
+
+Decorative ornamental line (exactly 28% from top): An identical turquoise ornamental filigree divider matching the one above — same scrollwork, same flourishes, same symmetrical design. This line appears BELOW the subtitle.
+
+Line 6 (exactly 92% from top): "KETAN SHUKLA" — large Garamond font, centered, white/cream, generous letter-spacing approximately 0.2em.
+
+OVERALL MOOD: Cinematic, profound, cool turquoise tones against deep darkness. The feeling of finally seeing the difference between truth and meaning — and discovering that truth, faced directly, has a beauty and a power that constructed meaning could never match. Photorealistic, editorial quality, suitable for a bestselling non-fiction book cover.

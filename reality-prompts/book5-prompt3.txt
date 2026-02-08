@@ -1,0 +1,32 @@
+A stunning 9:16 portrait book cover rendered in ultra-high-resolution photorealistic style with cinematic color grading.
+
+SUBJECT — CLOSE-UP PORTRAIT (MAN AND WOMAN):
+A strikingly handsome young white man in his late 20s and a breathtakingly beautiful young white woman in her 20s, positioned together in the lower-center of the image (their faces centered around 65-75% down from the top). They stand side by side at the very edge of a cliff, looking outward together into an infinite turquoise expanse — their backs slightly toward the viewer, their faces visible in three-quarter profile. They are not holding hands, not leaning on each other — they stand as two complete, sovereign individuals who happen to be looking at the same thing: reality, unmediated, with nothing in the way. The man's expression is one of quiet, settled arrival — the face of someone who has walked the entire journey and found that the destination was always here. The woman's expression mirrors his but with her own quality — a gentle, luminous acceptance, the face of someone who has released every story and found that what remains is enough. Their body language radiates peaceful completion — no urgency, no seeking, no needing — just two people standing at the edge of everything they thought they knew, looking at what is actually there. The man has a strong jaw with light stubble, short dark brown hair with subtle turquoise reflections, and deep green-gray eyes with turquoise striations visible even in profile. The woman has striking ice-blue eyes with turquoise striations, long dark brown hair flowing gently behind her. Both faces are captured with hyper-real detail — visible pores, natural imperfections, the way turquoise light from the vast expanse ahead illuminates their profiles with soft, even radiance. Their skin glows with reflected turquoise light from the horizon. Every micro-detail is rendered with photographic precision.
+
+CRITICAL COMPOSITION RULE — FACE PLACEMENT:
+Both faces must be positioned entirely BELOW the subtitle text area and ABOVE the author name. Their faces occupy roughly the 55%-82% vertical zone of the image. The top 45% of the image must contain ONLY the background elements and open space — absolutely NO part of their faces, hair, or bodies may enter the top 35% of the image.
+
+BACKGROUND — THE QUIET ARRIVAL:
+Behind them and filling the upper two-thirds of the image, the background depicts the most expansive, breathtaking vista in the entire series. An infinite turquoise ocean stretches from the cliff edge to the horizon, its surface perfectly calm, glowing with deep bioluminescent turquoise light from beneath. The horizon line sits at approximately the 40% mark, dividing the image between the luminous ocean below and a vast, open black sky above. The sky is not empty — it contains the faintest suggestion of dissolved structures: ghostly outlines of the belief architecture from Book 1, the cosmic panorama from Book 2, the theater from Book 3, the perceptual layers from Book 4 — all dissolved into near-invisible turquoise traces, like memories that have been fully processed and released. These ghost structures are so faint they are almost subliminal — visible only if you look for them, representing the journey that brought these two people here. The cliff edge where they stand is rendered in dark stone, grounding them in physical reality. A single turquoise bioluminescent line runs along the cliff edge, marking the boundary between the solid ground of the journey and the infinite openness ahead. The deep black sky above is vast and peaceful. Volumetric turquoise light rises from the ocean surface, illuminating the figures from ahead. Tiny turquoise particles drift in the air like luminous mist at the edge of the world.
+
+TEXT — MUST BE RENDERED EXACTLY AS SPECIFIED WITH UNIFORM PLACEMENT. DO NOT ALTER IN ANY WAY:
+
+All text placement percentages below are measured from the TOP of the image and must be followed precisely to ensure uniform placement across all covers in the series.
+
+Line 1 (exactly 3% from top): "REALITY WITHOUT BELIEF" — small elegant Garamond font, centered horizontally, turquoise color (#00CED1), letter-spacing 0.15em, approximately 14pt equivalent.
+
+Line 2 (exactly 6% from top): "BOOK V" — Garamond font, centered, turquoise color (#00CED1), letter-spacing 0.2em, approximately 12pt equivalent. Flanked on the left and right by thin horizontal turquoise lines extending outward from the text.
+
+Lines 3-4 (title block, exactly 10-22% from top): "THE QUIET EXIT" — large, elegant Garamond font, centered, white/cream with subtle turquoise warmth. "THE" is rendered noticeably smaller than "QUIET" and "EXIT." "EXIT" is the largest word. Arranged as:
+Line 3: "THE QUIET"
+Line 4: "EXIT"
+
+Decorative ornamental line (exactly 24% from top): An elegant turquoise ornamental filigree divider — a thin horizontal line that blooms into delicate curving scrollwork and flourishes at the center, with symmetrical ornamental curls tapering to fine points at each end. Rendered in turquoise (#00CED1) with subtle luminous glow.
+
+Line 5 (exactly 26% from top): "Freedom, Loneliness, Death, and What Remains" — smaller italic Garamond, centered, light gray/cream color.
+
+Decorative ornamental line (exactly 28% from top): An identical turquoise ornamental filigree divider matching the one above — same scrollwork, same flourishes, same symmetrical design.
+
+Line 6 (exactly 92% from top): "KETAN SHUKLA" — large Garamond font, centered, white/cream, generous letter-spacing approximately 0.2em.
+
+OVERALL MOOD: Cinematic, culminating, cool turquoise tones against infinite darkness. The feeling of two people standing at the end of a five-book journey, looking at reality with nothing in the way — not in triumph, not in loss, but in the quiet completion of having arrived at what was always here. Photorealistic, editorial quality, suitable for a bestselling non-fiction book cover.
