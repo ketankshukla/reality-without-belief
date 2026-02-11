@@ -1,0 +1,13 @@
+Dimensions: 2000 x 2000 pixels (square, transparent background option)
+
+Prompt:
+
+Sharp photorealistic emblem on deep charcoal-black background, 2000x2000 pixels. NO oil painting, NO painterly style.
+
+Circular emblem combining themes of clarity, truth, and the dissolution of belief. Outer ring: polished black onyx with inlaid silver filigree in a repeating pattern of fracture lines — elegant cracks radiating outward like shattering glass, representing the breaking apart of belief structures. Between the fracture lines, thin threads of warm gold fill the cracks — the Japanese kintsugi technique of repairing broken things with gold, symbolizing that what breaks open becomes more beautiful and more honest. Inner circle: a single human eye rendered in extraordinary photorealistic detail — the iris is a deep, luminous amber-gold with visible striations, the pupil perfectly black and centered, the eye gazing directly at the viewer with absolute clarity and calm. The eye is not stylized or symbolic — it is rendered as a real human eye, alive and present, representing clear seeing without interpretation. Surrounding the eye, a thin ring of polished crystal — perfectly transparent, with no color, no tint, no filter — representing the unmediated perception of reality. Four cardinal accent points on the outer ring: cut clear quartz crystals set in silver bezels, refracting warm golden light. The entire emblem has the quality of a master-crafted jeweler's piece — onyx, silver, gold, crystal, and a single living eye at its center. Subtle warm golden light emanates from within the iris, as if reality itself is the source of illumination.
+
+TEXT (rendered below emblem):
+
+"REALITY WITHOUT BELIEF" — elegant Garamond, warm cream/white (#FFF8DC) with subtle golden shadow, letter-spacing 0.15em, centered.
+Below that: "BY KETAN SHUKLA" — smaller Garamond, gold (#FFD700), centered.
+Photorealistic metalwork, gemstone, and iris rendering — must look like a real precision-crafted artifact with an impossibly lifelike eye at its center, not a painting. The emblem should feel like something forged by a master artisan who understood that the most powerful symbol of truth is an eye that sees without flinching — weighty, intricate, and unmistakably the seal of a body of work dedicated to clarity.
