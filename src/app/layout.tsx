@@ -53,19 +53,19 @@ export const metadata: Metadata = {
     type: "website",
     images: [
       {
-        url: "/images/series-logo-reality-without-belief.png",
-        width: 512,
-        height: 512,
-        alt: "Reality Without Belief series logo",
+        url: "/images/og-image.png",
+        width: 1200,
+        height: 630,
+        alt: "Reality Without Belief — 5-Book Philosophy Series by Ketan Shukla",
       },
     ],
   },
   twitter: {
-    card: "summary",
+    card: "summary_large_image",
     title: "Reality Without Belief — 5-Book Philosophy Series",
     description:
       "A five-book non-fiction journey from the failure of belief to the freedom of reality. Dismantle belief, face reality, develop clear seeing. By Ketan Shukla.",
-    images: ["/images/series-logo-reality-without-belief.png"],
+    images: ["/images/og-image.png"],
   },
 };
 
