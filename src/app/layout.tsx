@@ -22,9 +22,10 @@ export const viewport: Viewport = {
 };
 
 export const metadata: Metadata = {
-  title: "Reality Without Belief — A Five-Book Series by Ketan Shukla",
+  metadataBase: new URL("https://reality.ketanshukla.com"),
+  title: "Reality Without Belief — 5-Book Philosophy Series by Ketan Shukla",
   description:
-    "A five-book journey from the failure of belief to the freedom of reality. Dismantle belief, face reality directly, expose cultural conviction, develop clear seeing, and discover what remains when there is nothing left to defend.",
+    "A five-book non-fiction journey from the failure of belief to the freedom of reality. Dismantle belief, face reality directly, expose cultural conviction, develop clear seeing, and discover what remains when there is nothing left to defend. Available on Amazon Kindle, Paperback & Hardcover.",
   keywords: [
     "reality",
     "belief",
@@ -34,9 +35,37 @@ export const metadata: Metadata = {
     "conviction",
     "book series",
     "Ketan Shukla",
+    "non-fiction",
+    "Amazon KDP",
+    "philosophy books",
+    "direct seeing",
   ],
   icons: {
     icon: "/favicon.svg",
+  },
+  openGraph: {
+    title: "Reality Without Belief — 5-Book Philosophy Series",
+    description:
+      "A five-book non-fiction journey from the failure of belief to the freedom of reality. Dismantle belief, face reality, develop clear seeing. By Ketan Shukla.",
+    url: "https://reality.ketanshukla.com",
+    siteName: "Reality Without Belief",
+    locale: "en_US",
+    type: "website",
+    images: [
+      {
+        url: "/images/series-logo-reality-without-belief.png",
+        width: 512,
+        height: 512,
+        alt: "Reality Without Belief series logo",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary",
+    title: "Reality Without Belief — 5-Book Philosophy Series",
+    description:
+      "A five-book non-fiction journey from the failure of belief to the freedom of reality. Dismantle belief, face reality, develop clear seeing. By Ketan Shukla.",
+    images: ["/images/series-logo-reality-without-belief.png"],
   },
 };
 
@@ -50,6 +79,36 @@ export default function RootLayout({
       <body
         className={`${inter.variable} ${garamond.variable} font-sans antialiased`}
       >
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@graph": [
+                {
+                  "@type": "BookSeries",
+                  name: "Reality Without Belief",
+                  url: "https://reality.ketanshukla.com",
+                  description:
+                    "A five-book non-fiction journey from the failure of belief to the freedom of reality. Dismantle belief, face reality directly, expose cultural conviction, develop clear seeing.",
+                  numberOfBooks: 5,
+                  genre: ["Philosophy", "Non-Fiction", "Critical Thinking"],
+                  author: {
+                    "@type": "Person",
+                    name: "Ketan Shukla",
+                    url: "https://www.ketanshukla.com",
+                    sameAs: ["https://metronagon.com"],
+                  },
+                },
+                {
+                  "@type": "WebSite",
+                  name: "Reality Without Belief",
+                  url: "https://reality.ketanshukla.com",
+                },
+              ],
+            }),
+          }}
+        />
         <ImageProtection />
         {children}
       </body>
