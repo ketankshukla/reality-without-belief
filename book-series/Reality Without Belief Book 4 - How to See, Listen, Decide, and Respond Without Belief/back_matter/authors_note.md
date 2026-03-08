@@ -1,6 +1,6 @@
 # Author's Note
 
-Thank you for reading *The Practice of Clear Seeing*.
+Thank you for listening to *The Practice of Clear Seeing*.
 
 This is where understanding became a way of life. You can understand that belief distorts perception — but can you actually see clearly in the heat of the moment? That gap between understanding and practice is where most people stop. This book bridges it.
 

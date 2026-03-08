@@ -30,24 +30,8 @@ And that — it turns out — is more than enough. It is everything.
 
 ## Acknowledgments
 
-This series would not exist without the influence of those who dared to question the unquestionable. Werner Erhard, whose distinction of "what's so" became the foundation of my inquiry and the cornerstone of this work. Richard Feynman, whose commitment to not fooling himself set a standard I continue to aspire to — a standard that makes all genuine discovery possible. And the countless thinkers, teachers, and honest questioners throughout history who valued truth over comfort and reality over belief.
+This series would not exist without the influence of those who dared to question the unquestionable. Werner Erhard, whose distinction of "what's so" became the foundation of my inquiry and the cornerstone of this work. And the countless thinkers, teachers, and honest questioners throughout history who valued truth over comfort and reality over belief.
 
 To Nimisha Acharya, my wife, whose twenty years of partnership, patience, and unwavering support made this work possible. You are the reality I am most grateful for. You are what is so — and you are extraordinary.
 
 To every reader who chose to examine their beliefs and engage with reality directly — you have done something that most people never do. You have chosen clarity over comfort, truth over convenience, and reality over reassurance. That choice takes genuine courage. And it is the beginning of a life lived with power, presence, and integrity that belief could never provide.
-
----
-
-## The Complete _Reality Without Belief_ Series
-
-**Book 1: The Anatomy of Belief** — Why We Believe, Why It Fails, and What It Costs Us
-
-**Book 2: The Nature of What Is So** — Facing Reality Without Interpretation, Meaning, or Comfort
-
-**Book 3: The Theater of Conviction** — How Culture, Identity, and Outrage Replace Thinking
-
-**Book 4: The Practice of Clear Seeing** — How to See, Listen, Decide, and Respond Without Belief
-
-**Book 5: The Quiet Exit** — Freedom, Loneliness, Death, and What Remains
-
-_A five-book journey from the anatomy of belief to the freedom of reality. Your life will never be the same._

@@ -1,6 +1,6 @@
 # Author's Note
 
-Thank you for reading *The Anatomy of Belief*.
+Thank you for listening to *The Anatomy of Belief*.
 
 This book began with a question I could not stop asking: why do intelligent, capable people cling to beliefs that limit their lives? Not because they are foolish — but because belief itself operates beneath the level of conscious choice. It is woven into identity, into emotion, into the very structure of how we experience the world.
 

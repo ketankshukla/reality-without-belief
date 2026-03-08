@@ -11,6 +11,3 @@ That is what this book reveals. _The Nature of What Is So_ turns from the anatom
 This book also examines how our best frameworks — science, spirituality, rationalism, debate — become extraordinary tools when practiced as inquiry rather than worn as identity. The believer and the skeptic are mirror images of the same limitation — and there is a powerful third option that transcends both.
 
 If Book 1 cleared the ground by seeing through belief, this book reveals what the ground is made of. What you find here is more solid, more real, and more powerful than any belief. It is reality — and it will change your life.
-
-Ketan Shukla
-2026

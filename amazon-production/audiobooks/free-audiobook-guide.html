@@ -1,0 +1,832 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Free Audiobook Creation Guide — Amazon ACX</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Source+Code+Pro:wght@400;600&family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --ink: #1a1209;
+    --cream: #faf6ee;
+    --amber: #c8860a;
+    --rust: #a63d2f;
+    --sage: #3d6b52;
+    --pale: #f0ebe0;
+    --rule: #d4c9b0;
+    --code-bg: #1e1a14;
+    --code-text: #e8d5a0;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: var(--cream);
+    color: var(--ink);
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    line-height: 1.7;
+    font-size: 15px;
+  }
+
+  /* HEADER */
+  header {
+    background: var(--ink);
+    color: var(--cream);
+    padding: 3rem 2rem 2.5rem;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+  }
+  header::before {
+    content: '';
+    position: absolute; inset: 0;
+    background: repeating-linear-gradient(
+      90deg, transparent, transparent 60px, rgba(200,134,10,0.06) 60px, rgba(200,134,10,0.06) 61px
+    );
+  }
+  header .badge {
+    display: inline-block;
+    background: var(--amber);
+    color: var(--ink);
+    font-family: 'Source Code Pro', monospace;
+    font-size: 0.65rem;
+    font-weight: 600;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    padding: 0.3em 0.9em;
+    margin-bottom: 1rem;
+  }
+  header h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: clamp(2rem, 5vw, 3.2rem);
+    font-weight: 900;
+    line-height: 1.1;
+    margin-bottom: 0.6rem;
+  }
+  header h1 em { color: var(--amber); font-style: normal; }
+  header p {
+    font-weight: 300;
+    font-size: 1rem;
+    color: rgba(250,246,238,0.7);
+    max-width: 540px;
+    margin: 0 auto;
+  }
+
+  /* NAV */
+  nav {
+    background: var(--pale);
+    border-bottom: 2px solid var(--rule);
+    padding: 0 2rem;
+    display: flex;
+    gap: 0;
+    overflow-x: auto;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  nav a {
+    display: inline-block;
+    padding: 0.85rem 1.2rem;
+    font-size: 0.78rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--ink);
+    text-decoration: none;
+    border-bottom: 3px solid transparent;
+    transition: border-color 0.2s, color 0.2s;
+    white-space: nowrap;
+  }
+  nav a:hover { border-bottom-color: var(--amber); color: var(--amber); }
+
+  /* LAYOUT */
+  main { max-width: 860px; margin: 0 auto; padding: 3rem 1.5rem; }
+
+  /* SECTION */
+  .section { margin-bottom: 3.5rem; }
+  .section-label {
+    font-family: 'Source Code Pro', monospace;
+    font-size: 0.65rem;
+    font-weight: 600;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--amber);
+    margin-bottom: 0.4rem;
+  }
+  h2 {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.7rem;
+    font-weight: 700;
+    color: var(--ink);
+    margin-bottom: 1rem;
+    padding-bottom: 0.6rem;
+    border-bottom: 1px solid var(--rule);
+  }
+  h3 {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.15rem;
+    font-weight: 700;
+    color: var(--ink);
+    margin: 1.6rem 0 0.5rem;
+  }
+  p { margin-bottom: 0.9rem; }
+  strong { font-weight: 700; }
+
+  /* CALLOUT */
+  .callout {
+    border-left: 4px solid var(--amber);
+    background: var(--pale);
+    padding: 1rem 1.4rem;
+    margin: 1.4rem 0;
+    border-radius: 0 4px 4px 0;
+  }
+  .callout.warn { border-left-color: var(--rust); }
+  .callout.good { border-left-color: var(--sage); }
+  .callout-title {
+    font-family: 'Source Code Pro', monospace;
+    font-size: 0.7rem;
+    font-weight: 600;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    margin-bottom: 0.4rem;
+  }
+  .callout-title.amber { color: var(--amber); }
+  .callout-title.rust { color: var(--rust); }
+  .callout-title.sage { color: var(--sage); }
+
+  /* METHOD CARDS */
+  .method-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 1.2rem; margin: 1.4rem 0; }
+  .method-card {
+    border: 1px solid var(--rule);
+    border-radius: 6px;
+    padding: 1.3rem;
+    position: relative;
+    background: #fff;
+    transition: box-shadow 0.2s, transform 0.2s;
+  }
+  .method-card:hover { box-shadow: 0 4px 20px rgba(0,0,0,0.08); transform: translateY(-2px); }
+  .method-card .tier {
+    position: absolute;
+    top: -1px; right: -1px;
+    font-family: 'Source Code Pro', monospace;
+    font-size: 0.6rem;
+    font-weight: 600;
+    letter-spacing: 0.12em;
+    padding: 0.25em 0.7em;
+    border-radius: 0 6px 0 4px;
+    text-transform: uppercase;
+  }
+  .tier-best { background: var(--sage); color: #fff; }
+  .tier-good { background: var(--amber); color: var(--ink); }
+  .tier-alt { background: var(--pale); color: var(--ink); border: 1px solid var(--rule); }
+  .method-card h4 {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.05rem;
+    font-weight: 700;
+    margin-bottom: 0.4rem;
+    padding-right: 3rem;
+  }
+  .method-card p { font-size: 0.87rem; margin-bottom: 0.6rem; color: #444; }
+  .method-meta {
+    display: flex; gap: 1rem; flex-wrap: wrap;
+    font-size: 0.75rem;
+    font-family: 'Source Code Pro', monospace;
+    color: #666;
+  }
+  .method-meta span::before { margin-right: 0.3em; }
+
+  /* CODE BLOCK */
+  .code-block {
+    background: var(--code-bg);
+    color: var(--code-text);
+    font-family: 'Source Code Pro', monospace;
+    font-size: 0.82rem;
+    padding: 1.2rem 1.5rem;
+    border-radius: 6px;
+    overflow-x: auto;
+    margin: 1rem 0;
+    line-height: 1.6;
+  }
+  .code-block .comment { color: #6a8060; }
+  .code-block .cmd { color: #e8c97a; }
+
+  /* STEPS */
+  .steps { counter-reset: step; margin: 1rem 0; }
+  .step {
+    counter-increment: step;
+    display: flex;
+    gap: 1.2rem;
+    margin-bottom: 1.2rem;
+    align-items: flex-start;
+  }
+  .step-num {
+    flex-shrink: 0;
+    width: 2rem; height: 2rem;
+    background: var(--ink);
+    color: var(--cream);
+    font-family: 'Playfair Display', serif;
+    font-size: 0.85rem;
+    font-weight: 700;
+    display: flex; align-items: center; justify-content: center;
+    border-radius: 50%;
+  }
+  .step-body { flex: 1; padding-top: 0.15rem; }
+  .step-body strong { display: block; margin-bottom: 0.2rem; }
+
+  /* SPEC TABLE */
+  .spec-table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.88rem; }
+  .spec-table th {
+    background: var(--ink);
+    color: var(--cream);
+    font-family: 'Source Code Pro', monospace;
+    font-size: 0.7rem;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    padding: 0.6rem 1rem;
+    text-align: left;
+  }
+  .spec-table td {
+    padding: 0.6rem 1rem;
+    border-bottom: 1px solid var(--rule);
+    vertical-align: top;
+  }
+  .spec-table tr:nth-child(even) td { background: var(--pale); }
+  .spec-table .pass { color: var(--sage); font-weight: 700; }
+  .spec-table .fail { color: var(--rust); font-weight: 700; }
+
+  /* COMPARISON TABLE */
+  .compare-wrap { overflow-x: auto; }
+  .compare-table { width: 100%; border-collapse: collapse; font-size: 0.85rem; min-width: 560px; }
+  .compare-table th {
+    background: var(--ink); color: var(--cream);
+    padding: 0.6rem 0.9rem; text-align: left;
+    font-family: 'Source Code Pro', monospace;
+    font-size: 0.7rem; letter-spacing: 0.1em; text-transform: uppercase;
+  }
+  .compare-table td { padding: 0.55rem 0.9rem; border-bottom: 1px solid var(--rule); }
+  .compare-table tr:nth-child(even) td { background: var(--pale); }
+  .dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; margin-right: 5px; }
+  .dot-green { background: var(--sage); }
+  .dot-yellow { background: var(--amber); }
+  .dot-red { background: var(--rust); }
+
+  /* TAG */
+  .tag {
+    display: inline-block;
+    font-family: 'Source Code Pro', monospace;
+    font-size: 0.65rem;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    padding: 0.2em 0.6em;
+    border-radius: 3px;
+    margin: 0.1em;
+  }
+  .tag-free { background: #d4ead9; color: var(--sage); }
+  .tag-win { background: #dce8f5; color: #2a5a8c; }
+  .tag-mac { background: #f5dce0; color: #8c2a2a; }
+  .tag-web { background: #f5eddc; color: #7a5c00; }
+
+  /* FOOTER */
+  footer {
+    background: var(--ink);
+    color: rgba(250,246,238,0.5);
+    text-align: center;
+    padding: 2rem;
+    font-size: 0.8rem;
+    margin-top: 4rem;
+  }
+  footer strong { color: var(--amber); }
+
+  @media (max-width: 600px) {
+    .method-grid { grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="badge">Zero Cost Workflow</div>
+  <h1>PDF → <em>Audiobook</em><br>for Amazon ACX</h1>
+  <p>A complete guide to creating a distribution-ready audiobook from your existing book file without spending a dollar.</p>
+</header>
+
+<nav>
+  <a href="#acx-reqs">ACX Requirements</a>
+  <a href="#method-tts">TTS Methods</a>
+  <a href="#workflow">Workflow</a>
+  <a href="#audio-edit">Audio Editing</a>
+  <a href="#python-script">Python Script</a>
+  <a href="#upload">Upload Guide</a>
+</nav>
+
+<main>
+
+  <!-- ══ OVERVIEW ══ -->
+  <div class="section" id="overview">
+    <div class="section-label">Overview</div>
+    <h2>Your Zero-Cost Strategy</h2>
+    <p>Amazon distributes audiobooks through <strong>ACX (Audiobook Creation Exchange)</strong> — the platform that feeds both Audible and Amazon. You have two broad zero-cost paths:</p>
+
+    <div class="callout good">
+      <div class="callout-title sage">✓ Recommended Path</div>
+      <strong>Free TTS (Text-to-Speech) → Free Audio Editing → ACX Upload.</strong> Use Microsoft Edge's built-in neural voices or the free <code>edge-tts</code> Python library to generate high-quality AI narration, then clean up the audio in Audacity (free), and export files that meet ACX spec.
+    </div>
+
+    <div class="callout warn">
+      <div class="callout-title rust">⚠ Important Disclosure Note</div>
+      ACX/Audible currently allows AI-narrated audiobooks but requires you to declare it during submission. Select "This title was narrated by AI" when uploading. Failing to disclose can result in removal.
+    </div>
+
+    <p>The guide below covers every step: extracting text from your PDF, generating audio with free tools, meeting ACX technical specs, editing in Audacity, and submitting.</p>
+  </div>
+
+  <!-- ══ ACX REQUIREMENTS ══ -->
+  <div class="section" id="acx-reqs">
+    <div class="section-label">Step 0 — Know Before You Start</div>
+    <h2>ACX Audio Requirements</h2>
+    <p>Every audio file you submit to ACX must meet these technical specifications exactly. Files that fail QC will be rejected.</p>
+
+    <table class="spec-table">
+      <thead>
+        <tr><th>Spec</th><th>Required Value</th><th>Notes</th></tr>
+      </thead>
+      <tbody>
+        <tr><td><strong>Format</strong></td><td>MP3</td><td>No WAV, AAC, or FLAC</td></tr>
+        <tr><td><strong>Bit Rate</strong></td><td>192 kbps CBR or higher</td><td>Must be Constant Bit Rate (CBR), not VBR</td></tr>
+        <tr><td><strong>Sample Rate</strong></td><td>44,100 Hz</td><td>Standard CD-quality rate</td></tr>
+        <tr><td><strong>Channels</strong></td><td>Mono or Stereo</td><td>Mono is preferred and slightly smaller</td></tr>
+        <tr><td><strong>Peak Level</strong></td><td>-3 dBFS or lower</td><td>No clipping allowed</td></tr>
+        <tr><td><strong>RMS Loudness</strong></td><td>-23 dBFS to -18 dBFS</td><td>Average volume must fall in this range</td></tr>
+        <tr><td><strong>Noise Floor</strong></td><td>-60 dBFS or lower</td><td>Silence must be very quiet</td></tr>
+        <tr><td><strong>Room Tone</strong></td><td>0.5 sec at start &amp; end</td><td>Each file must open and close with silence</td></tr>
+        <tr><td><strong>Opening Credits</strong></td><td>Required separate file</td><td>"Title, written by Author, narrated by…"</td></tr>
+        <tr><td><strong>Closing Credits</strong></td><td>Required separate file</td><td>Copyright, publisher info</td></tr>
+        <tr><td><strong>File Structure</strong></td><td>One file per chapter</td><td>Short books can be 1 file; &lt;120 min per file</td></tr>
+      </tbody>
+    </table>
+
+    <div class="callout">
+      <div class="callout-title amber">💡 Pro Tip: ACX Check Plugin</div>
+      Download the free <strong>ACX Check</strong> plugin for Audacity. It runs all the above checks automatically and tells you exactly what passes or fails before you submit.
+    </div>
+  </div>
+
+  <!-- ══ TTS METHODS ══ -->
+  <div class="section" id="method-tts">
+    <div class="section-label">Step 1 — Choose Your TTS Tool</div>
+    <h2>Free Text-to-Speech Options</h2>
+
+    <div class="method-grid">
+
+      <div class="method-card">
+        <span class="tier tier-best">Best</span>
+        <h4>edge-tts (Python CLI)</h4>
+        <p>Uses Microsoft Azure Neural voices via the Edge browser API endpoint. Completely free, no API key needed, near-professional voice quality.</p>
+        <div class="method-meta">
+          <span>🎯 Best quality</span>
+          <span>🐍 Python</span>
+        </div>
+        <div style="margin-top:0.7rem;">
+          <span class="tag tag-win">Windows</span>
+          <span class="tag tag-mac">Mac</span>
+          <span class="tag tag-free">Free forever</span>
+        </div>
+      </div>
+
+      <div class="method-card">
+        <span class="tier tier-best">Best</span>
+        <h4>Kokoro TTS</h4>
+        <p>Open-source, runs 100% locally. High-quality voices, no internet required after install. Slightly more setup but fully offline.</p>
+        <div class="method-meta">
+          <span>🔒 Offline</span>
+          <span>🐍 Python</span>
+        </div>
+        <div style="margin-top:0.7rem;">
+          <span class="tag tag-win">Windows</span>
+          <span class="tag tag-mac">Mac</span>
+          <span class="tag tag-free">Open Source</span>
+        </div>
+      </div>
+
+      <div class="method-card">
+        <span class="tier tier-good">Good</span>
+        <h4>Balabolka</h4>
+        <p>Free Windows desktop app. Uses any installed SAPI5 voice. Works well with Microsoft's Zira and David voices built into Windows.</p>
+        <div class="method-meta">
+          <span>🖥 Desktop GUI</span>
+          <span>📂 Batch files</span>
+        </div>
+        <div style="margin-top:0.7rem;">
+          <span class="tag tag-win">Windows Only</span>
+          <span class="tag tag-free">Free</span>
+        </div>
+      </div>
+
+      <div class="method-card">
+        <span class="tier tier-good">Good</span>
+        <h4>Natural Reader (Free Tier)</h4>
+        <p>Web-based TTS. Free tier gives you 20 min/day of premium voices. Good for short books; will take many sessions for a full-length book.</p>
+        <div class="method-meta">
+          <span>⏱ 20 min/day limit</span>
+          <span>🌐 Browser-based</span>
+        </div>
+        <div style="margin-top:0.7rem;">
+          <span class="tag tag-web">Web</span>
+          <span class="tag tag-free">Free (limited)</span>
+        </div>
+      </div>
+
+      <div class="method-card">
+        <span class="tier tier-alt">Alt</span>
+        <h4>NVDA + Recording</h4>
+        <p>Free screen reader for Windows. Route its audio through VB-Audio Virtual Cable (free) and record it in Audacity chapter by chapter.</p>
+        <div class="method-meta">
+          <span>🎙 Record system audio</span>
+        </div>
+        <div style="margin-top:0.7rem;">
+          <span class="tag tag-win">Windows Only</span>
+          <span class="tag tag-free">Free</span>
+        </div>
+      </div>
+
+      <div class="method-card">
+        <span class="tier tier-alt">Alt</span>
+        <h4>Record Yourself</h4>
+        <p>Free and gives you complete creative control. Use Audacity + a decent USB microphone. Time-intensive but produces the most authentic result.</p>
+        <div class="method-meta">
+          <span>🎤 Human narration</span>
+          <span>⏱ Most time</span>
+        </div>
+        <div style="margin-top:0.7rem;">
+          <span class="tag tag-win">Windows</span>
+          <span class="tag tag-mac">Mac</span>
+          <span class="tag tag-free">Free (Audacity)</span>
+        </div>
+      </div>
+
+    </div>
+
+    <h3>Voice Quality Comparison</h3>
+    <div class="compare-wrap">
+      <table class="compare-table">
+        <thead>
+          <tr><th>Tool</th><th>Voice Quality</th><th>Setup Difficulty</th><th>Batch Processing</th><th>Offline</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>edge-tts</strong></td>
+            <td><span class="dot dot-green"></span>Excellent (Neural)</td>
+            <td><span class="dot dot-green"></span>Easy (pip install)</td>
+            <td><span class="dot dot-green"></span>Yes (scripted)</td>
+            <td><span class="dot dot-red"></span>No</td>
+          </tr>
+          <tr>
+            <td><strong>Kokoro TTS</strong></td>
+            <td><span class="dot dot-green"></span>Excellent (Neural)</td>
+            <td><span class="dot dot-yellow"></span>Moderate</td>
+            <td><span class="dot dot-green"></span>Yes</td>
+            <td><span class="dot dot-green"></span>Yes</td>
+          </tr>
+          <tr>
+            <td><strong>Balabolka</strong></td>
+            <td><span class="dot dot-yellow"></span>Good (SAPI5)</td>
+            <td><span class="dot dot-green"></span>Easy (GUI)</td>
+            <td><span class="dot dot-green"></span>Yes (GUI)</td>
+            <td><span class="dot dot-green"></span>Yes</td>
+          </tr>
+          <tr>
+            <td><strong>Natural Reader</strong></td>
+            <td><span class="dot dot-green"></span>Very Good</td>
+            <td><span class="dot dot-green"></span>Easy (browser)</td>
+            <td><span class="dot dot-red"></span>Limited</td>
+            <td><span class="dot dot-red"></span>No</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <!-- ══ WORKFLOW ══ -->
+  <div class="section" id="workflow">
+    <div class="section-label">Step 2 — End-to-End Workflow</div>
+    <h2>Complete Production Workflow</h2>
+
+    <h3>Phase A: Extract Text from PDF</h3>
+    <div class="steps">
+      <div class="step">
+        <div class="step-num">1</div>
+        <div class="step-body">
+          <strong>Install pdfplumber or PyMuPDF (free Python libraries)</strong>
+          These extract clean text from your PDF preserving layout. If your PDF was created from a Word/InDesign source, text extraction will be clean. If it's a scanned PDF (image-only), you'll need OCR (use Tesseract — free).
+        </div>
+      </div>
+      <div class="step">
+        <div class="step-num">2</div>
+        <div class="step-body">
+          <strong>Extract and clean the text</strong>
+          Split by chapter. Remove page headers/footers, figure captions, tables (describe them verbally), and anything that reads awkwardly aloud. Replace em-dashes (—) with pauses using commas or ellipses. Spell out numbers and abbreviations. Remove URLs.
+        </div>
+      </div>
+      <div class="step">
+        <div class="step-num">3</div>
+        <div class="step-body">
+          <strong>Save as individual .txt files per chapter</strong>
+          Name them: <code>00_opening_credits.txt</code>, <code>01_chapter_1.txt</code>, etc. This maps directly to your final ACX file structure.
+        </div>
+      </div>
+    </div>
+
+    <h3>Phase B: Generate Audio with edge-tts (Recommended)</h3>
+    <div class="steps">
+      <div class="step">
+        <div class="step-num">1</div>
+        <div class="step-body">
+          <strong>Install edge-tts</strong>
+          Run in your terminal: <code>pip install edge-tts</code>
+        </div>
+      </div>
+      <div class="step">
+        <div class="step-num">2</div>
+        <div class="step-body">
+          <strong>Pick a voice</strong>
+          List all available English voices: <code>edge-tts --list-voices | grep en-US</code><br>
+          Recommended voices: <strong>en-US-GuyNeural</strong> (male, authoritative), <strong>en-US-JennyNeural</strong> (female, warm), <strong>en-US-AriaNeural</strong> (female, expressive).
+        </div>
+      </div>
+      <div class="step">
+        <div class="step-num">3</div>
+        <div class="step-body">
+          <strong>Generate each chapter</strong>
+          The Python script below automates the full batch. It reads all your .txt files and outputs .mp3 files ready for ACX processing.
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ══ PYTHON SCRIPT ══ -->
+  <div class="section" id="python-script">
+    <div class="section-label">Step 3 — Automation</div>
+    <h2>Python Script: PDF → Chapter MP3s</h2>
+    <p>Save this as <code>make_audiobook.py</code> in your project folder. It handles PDF extraction, chapter splitting, and audio generation in one pass.</p>
+
+    <div class="code-block">
+<span class="comment"># ─────────────────────────────────────────────────────────────────────
+# make_audiobook.py
+# Requirements: pip install edge-tts pdfplumber asyncio
+# Usage: python make_audiobook.py mybook.pdf output_folder/
+# ─────────────────────────────────────────────────────────────────────</span>
+
+<span class="cmd">import</span> asyncio, os, sys, re, pdfplumber
+<span class="cmd">import</span> edge_tts
+
+<span class="comment"># ── SETTINGS ──────────────────────────────────────────────────────────</span>
+VOICE     = <span style="color:#c8e88a">"en-US-GuyNeural"</span>   <span class="comment"># Change to your preferred voice</span>
+RATE      = <span style="color:#c8e88a">"+0%"</span>              <span class="comment"># Speed: "-10%" slower, "+10%" faster</span>
+PITCH     = <span style="color:#c8e88a">"+0Hz"</span>             <span class="comment"># Pitch adjustment</span>
+
+<span class="comment"># Patterns that signal a new chapter in your PDF</span>
+CHAPTER_RE = re.compile(
+    r'^(chapter\s+\d+|chapter\s+[ivxlc]+|part\s+\d+|prologue|epilogue|introduction|conclusion)',
+    re.IGNORECASE | re.MULTILINE
+)
+
+<span class="cmd">def</span> extract_chapters(pdf_path):
+    <span style="color:#a0c8a0">"""Extract text from PDF and split into chapters."""</span>
+    full_text = []
+    <span class="cmd">with</span> pdfplumber.open(pdf_path) <span class="cmd">as</span> pdf:
+        <span class="cmd">for</span> page <span class="cmd">in</span> pdf.pages:
+            text = page.extract_text()
+            <span class="cmd">if</span> text:
+                full_text.append(text)
+    raw = <span style="color:#c8e88a">"\n"</span>.join(full_text)
+
+    <span class="comment"># Split on chapter headings</span>
+    parts = CHAPTER_RE.split(raw)
+    chapters = []
+    <span class="cmd">for</span> i <span class="cmd">in</span> range(1, len(parts), 2):
+        title = parts[i].strip()
+        body  = parts[i+1].strip() <span class="cmd">if</span> i+1 < len(parts) <span class="cmd">else</span> <span style="color:#c8e88a">""</span>
+        chapters.append((title, body))
+
+    <span class="comment"># If no chapter headings found, treat whole book as one chapter</span>
+    <span class="cmd">if not</span> chapters:
+        chapters = [(<span style="color:#c8e88a">"Full Book"</span>, raw)]
+    <span class="cmd">return</span> chapters
+
+<span class="cmd">def</span> clean_for_audio(text):
+    <span style="color:#a0c8a0">"""Clean text to read better as audio."""</span>
+    text = re.sub(r'https?://\S+', <span style="color:#c8e88a">''</span>, text)        <span class="comment"># remove URLs</span>
+    text = re.sub(r'\b(\d+)\b', <span class="cmd">lambda</span> m: m.group(), text) <span class="comment"># numbers (expand if needed)</span>
+    text = text.replace(<span style="color:#c8e88a">'—'</span>, <span style="color:#c8e88a">', '</span>)              <span class="comment"># em-dashes → pauses</span>
+    text = text.replace(<span style="color:#c8e88a">'–'</span>, <span style="color:#c8e88a">', '</span>)              <span class="comment"># en-dashes → pauses</span>
+    text = re.sub(r'\s{2,}', <span style="color:#c8e88a">' '</span>, text)           <span class="comment"># collapse whitespace</span>
+    text = re.sub(r'\n{3,}', <span style="color:#c8e88a">'\n\n'</span>, text)       <span class="comment"># max 2 blank lines</span>
+    <span class="cmd">return</span> text.strip()
+
+<span class="cmd">async def</span> text_to_mp3(text, output_path):
+    <span style="color:#a0c8a0">"""Generate MP3 from text using edge-tts."""</span>
+    communicate = edge_tts.Communicate(text, VOICE, rate=RATE, pitch=PITCH)
+    <span class="cmd">await</span> communicate.save(output_path)
+    print(<span style="color:#c8e88a">f"  ✓ Saved: {output_path}"</span>)
+
+<span class="cmd">async def</span> main():
+    <span class="cmd">if</span> len(sys.argv) < 3:
+        print(<span style="color:#c8e88a">"Usage: python make_audiobook.py input.pdf output_dir/"</span>)
+        sys.exit(1)
+
+    pdf_path   = sys.argv[1]
+    output_dir = sys.argv[2]
+    os.makedirs(output_dir, exist_ok=<span class="cmd">True</span>)
+
+    print(<span style="color:#c8e88a">f"Extracting text from {pdf_path}..."</span>)
+    chapters = extract_chapters(pdf_path)
+    print(<span style="color:#c8e88a">f"Found {len(chapters)} chapter(s). Generating audio..."</span>)
+
+    <span class="comment"># Opening credits (customize this text)</span>
+    opening = (<span style="color:#c8e88a">"Your Book Title. Written by Your Name. "
+               "Narrated by AI. All rights reserved."</span>)
+    opening_path = os.path.join(output_dir, <span style="color:#c8e88a">"00_opening_credits.mp3"</span>)
+    <span class="cmd">await</span> text_to_mp3(opening, opening_path)
+
+    <span class="comment"># Chapters</span>
+    <span class="cmd">for</span> idx, (title, body) <span class="cmd">in</span> enumerate(chapters, 1):
+        text  = clean_for_audio(<span style="color:#c8e88a">f"{title}. {body}"</span>)
+        fname = <span style="color:#c8e88a">f"{idx:02d}_{title[:30].replace(' ','_')}.mp3"</span>
+        fpath = os.path.join(output_dir, fname)
+        print(<span style="color:#c8e88a">f"Generating chapter {idx}: {title}"</span>)
+        <span class="cmd">await</span> text_to_mp3(text, fpath)
+
+    <span class="comment"># Closing credits (customize)</span>
+    closing = (<span style="color:#c8e88a">"Copyright [Year], Your Name. Published by [Publisher]. "
+               "All rights reserved. For more information visit [website]."</span>)
+    closing_path = os.path.join(output_dir, <span style="color:#c8e88a">"99_closing_credits.mp3"</span>)
+    <span class="cmd">await</span> text_to_mp3(closing, closing_path)
+
+    print(<span style="color:#c8e88a">"\n✅ All audio files generated. Now process in Audacity."</span>)
+
+asyncio.run(main())
+    </div>
+  </div>
+
+  <!-- ══ AUDIO EDITING ══ -->
+  <div class="section" id="audio-edit">
+    <div class="section-label">Step 4 — Audio Processing</div>
+    <h2>Audacity: Meeting ACX Specs</h2>
+    <p>Download <strong>Audacity</strong> (free, open-source: audacityteam.org) and the <strong>ACX Check plugin</strong> to verify your files before submission.</p>
+
+    <h3>Install ACX Check Plugin</h3>
+    <p>Download from <strong>wiki.audacityteam.org/wiki/Nyquist_Plug-ins_Reference</strong> and place the .ny file in Audacity's plug-in folder. Then: <em>Analyze → ACX Check</em> after each processing step.</p>
+
+    <h3>Processing Chain for Each Chapter File</h3>
+    <div class="steps">
+      <div class="step">
+        <div class="step-num">1</div>
+        <div class="step-body">
+          <strong>Import your MP3</strong>
+          File → Import → Audio. Select your chapter .mp3 file.
+        </div>
+      </div>
+      <div class="step">
+        <div class="step-num">2</div>
+        <div class="step-body">
+          <strong>Add 0.5s silence at start and end</strong>
+          Click the very start of the track → Generate → Silence → 0.5 seconds. Repeat at the end of the track. This satisfies ACX's "room tone" requirement.
+        </div>
+      </div>
+      <div class="step">
+        <div class="step-num">3</div>
+        <div class="step-body">
+          <strong>Normalize peaks to -3 dBFS</strong>
+          Effect → Normalize → Check "Normalize peak amplitude" → set to <strong>-3 dB</strong>. This ensures no clipping.
+        </div>
+      </div>
+      <div class="step">
+        <div class="step-num">4</div>
+        <div class="step-body">
+          <strong>Adjust RMS loudness to -18 dBFS</strong>
+          Effect → Loudness Normalization → set Perceived Loudness (RMS) to <strong>-18 LUFS</strong>. This brings the average volume into ACX range.
+        </div>
+      </div>
+      <div class="step">
+        <div class="step-num">5</div>
+        <div class="step-body">
+          <strong>Run ACX Check</strong>
+          Analyze → ACX Check. All three values (Peak, RMS, Noise Floor) should show green/pass. If noise floor fails, apply: Effect → Noise Reduction (sample a silent section first as the noise profile, then apply at ~12 dB reduction).
+        </div>
+      </div>
+      <div class="step">
+        <div class="step-num">6</div>
+        <div class="step-body">
+          <strong>Export as MP3 at 192 kbps CBR</strong>
+          File → Export → Export as MP3 → Options → Bit Rate Mode: <strong>Constant</strong>, Quality: <strong>192 kbps</strong>. Add metadata (title, author, chapter number).
+        </div>
+      </div>
+    </div>
+
+    <div class="callout">
+      <div class="callout-title amber">⚡ Audacity Macro for Batch Processing</div>
+      Use <strong>Tools → Macros</strong> to record the Normalize + Loudness Normalization + Export steps as a macro. Then run it on all chapter files at once via <strong>Apply Macro to Files</strong>. This saves hours of manual work.
+    </div>
+
+    <h3>Common ACX Rejection Reasons</h3>
+    <table class="spec-table">
+      <thead><tr><th>Failure</th><th>Cause</th><th>Fix</th></tr></thead>
+      <tbody>
+        <tr><td>RMS too quiet</td><td>TTS voices vary in loudness</td><td>Loudness Normalization → -18 LUFS</td></tr>
+        <tr><td>Noise floor too high</td><td>Background hiss in TTS output</td><td>Noise Reduction in Audacity</td></tr>
+        <tr><td>Missing room tone</td><td>No silence at file edges</td><td>Add 0.5s silence via Generate</td></tr>
+        <tr><td>VBR instead of CBR</td><td>Default MP3 export setting</td><td>Set "Constant" in export options</td></tr>
+        <tr><td>Missing credits file</td><td>No opening/closing credits</td><td>Create separate credited files</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- ══ UPLOAD GUIDE ══ -->
+  <div class="section" id="upload">
+    <div class="section-label">Step 5 — Publish</div>
+    <h2>ACX Upload &amp; Submission Guide</h2>
+
+    <div class="steps">
+      <div class="step">
+        <div class="step-num">1</div>
+        <div class="step-body">
+          <strong>Create your ACX account at acx.com</strong>
+          Sign in with your Amazon account. ACX is free to join.
+        </div>
+      </div>
+      <div class="step">
+        <div class="step-num">2</div>
+        <div class="step-body">
+          <strong>Search for your book or add it manually</strong>
+          ACX pulls from Amazon's catalog. Search by ASIN (your Kindle or paperback ASIN). If your book is live on Amazon, it should appear.
+        </div>
+      </div>
+      <div class="step">
+        <div class="step-num">3</div>
+        <div class="step-body">
+          <strong>Click "I have this" → "I want to narrate this title"</strong>
+          Select "Myself or someone I know" as the narrator option.
+        </div>
+      </div>
+      <div class="step">
+        <div class="step-num">4</div>
+        <div class="step-body">
+          <strong>Declare AI narration</strong>
+          ACX will ask how the book was narrated. Select the AI disclosure option. This is required and non-negotiable.
+        </div>
+      </div>
+      <div class="step">
+        <div class="step-num">5</div>
+        <div class="step-body">
+          <strong>Upload your files in order</strong>
+          Upload: Opening Credits → Chapter 1 → Chapter 2 → … → Closing Credits. Files must be in sequence. ACX will auto-run QC on each file.
+        </div>
+      </div>
+      <div class="step">
+        <div class="step-num">6</div>
+        <div class="step-body">
+          <strong>Set royalty structure</strong>
+          Choose between: <strong>Exclusive distribution (40% royalty)</strong> — only on Audible/Amazon/iTunes, or <strong>Non-exclusive (25% royalty)</strong> — you can also sell elsewhere. For KDP authors already in Kindle Unlimited (exclusive), the exclusive ACX rate is usually the right call.
+        </div>
+      </div>
+      <div class="step">
+        <div class="step-num">7</div>
+        <div class="step-body">
+          <strong>Review takes 10–14 business days</strong>
+          ACX QC team checks all files. If rejected, they'll specify which file and spec failed. Fix and re-upload only the failed file.
+        </div>
+      </div>
+    </div>
+
+    <div class="callout good">
+      <div class="callout-title sage">✓ Distribution Tip</div>
+      Once live on ACX, your audiobook appears on <strong>Audible, Amazon, and Apple Books</strong> automatically. For wider distribution (Libro.fm, Downpour, etc.), consider also uploading to <strong>Findaway Voices</strong> or <strong>Draft2Digital</strong> — both free to use with royalty-split models.
+    </div>
+
+    <h3>Full Software &amp; Tools Summary</h3>
+    <table class="spec-table">
+      <thead><tr><th>Tool</th><th>Purpose</th><th>Cost</th><th>Where</th></tr></thead>
+      <tbody>
+        <tr><td><strong>edge-tts</strong></td><td>AI narration generation</td><td class="pass">Free</td><td>pip install edge-tts</td></tr>
+        <tr><td><strong>pdfplumber</strong></td><td>PDF text extraction</td><td class="pass">Free</td><td>pip install pdfplumber</td></tr>
+        <tr><td><strong>Audacity</strong></td><td>Audio editing &amp; export</td><td class="pass">Free</td><td>audacityteam.org</td></tr>
+        <tr><td><strong>ACX Check</strong></td><td>Spec verification plugin</td><td class="pass">Free</td><td>Audacity plugin repository</td></tr>
+        <tr><td><strong>VB-Audio Cable</strong></td><td>Virtual audio routing (optional)</td><td class="pass">Free</td><td>vb-audio.com</td></tr>
+        <tr><td><strong>Kokoro TTS</strong></td><td>Alternative offline TTS</td><td class="pass">Free / Open Source</td><td>GitHub: hexgrad/kokoro</td></tr>
+        <tr><td><strong>Balabolka</strong></td><td>Windows GUI TTS app</td><td class="pass">Free</td><td>cross-plus-a.com/balabolka</td></tr>
+        <tr><td><strong>ACX Platform</strong></td><td>Upload &amp; distribution</td><td class="pass">Free (royalty split)</td><td>acx.com</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+</main>
+
+<footer>
+  <strong>Metronagon Media</strong> — Zero-Cost Audiobook Production Guide<br>
+  All tools listed are free at time of publication. Always verify current ACX technical specifications at acx.com/help before submitting.
+</footer>
+
+</body>
+</html>

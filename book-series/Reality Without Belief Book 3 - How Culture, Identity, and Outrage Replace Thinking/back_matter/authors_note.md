@@ -1,6 +1,6 @@
 # Author's Note
 
-Thank you for reading *The Theater of Conviction*.
+Thank you for listening to *The Theater of Conviction*.
 
 This was the pivot point of the series — the book where we moved from understanding belief to seeing what becomes possible without it. The first half exposes the theater: rationalism used as ego armor, opinions traded as social currency, outrage reinforcing the very beliefs it claims to challenge, and online discourse broken by design rather than by bad actors.
 

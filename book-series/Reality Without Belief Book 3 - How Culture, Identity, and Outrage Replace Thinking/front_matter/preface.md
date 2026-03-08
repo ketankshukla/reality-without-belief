@@ -13,6 +13,3 @@ This book examines how belief operates at scale — in culture, in social system
 Then this book makes a turn that changes everything. It asks: what becomes possible when belief is removed? And the answers are extraordinary. Without belief, you gain full access to your own agency. Without justification, you discover the strength of decisive choice. Without blame, you discover the liberation of genuine accountability. Without certainty, you discover the power of action. Without hope or fear, you discover the remarkable presence of living fully in the moment. Without motivation, you discover that discipline is the force that carries you through a life of extraordinary engagement with reality.
 
 This is the pivot point. This is where understanding becomes capability — and what awaits on the other side will change everything.
-
-Ketan Shukla
-2026

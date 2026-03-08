@@ -8,5 +8,4 @@ You have been my pillar through every challenge, every breakthrough, every momen
 
 This book is about reality. You are the reality I am most grateful for.
 
-With love and gratitude,
-Ketan
+With love and gratitude.

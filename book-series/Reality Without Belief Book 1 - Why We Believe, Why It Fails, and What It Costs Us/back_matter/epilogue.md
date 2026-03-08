@@ -32,17 +32,3 @@ _The Nature of What Is So_ reveals the nature of reality itself. In ten chapters
 - What becomes available when spirituality stops functioning as narrative shelter and becomes genuine engagement with what is
 
 The anatomy of belief has been laid bare. Now it is time to discover what belief was hiding. What you find will be more solid, more real, and more powerful than any belief. It is reality — and it will change your life.
-
----
-
-## Also in the _Reality Without Belief_ Series
-
-**Book 1: The Anatomy of Belief** — Why We Believe, Why It Fails, and What It Costs Us
-
-**Book 2: The Nature of What Is So** — Facing Reality Without Interpretation, Meaning, or Comfort
-
-**Book 3: The Theater of Conviction** — How Culture, Identity, and Outrage Replace Thinking
-
-**Book 4: The Practice of Clear Seeing** — How to See, Listen, Decide, and Respond Without Belief
-
-**Book 5: The Quiet Exit** — Freedom, Loneliness, Death, and What Remains

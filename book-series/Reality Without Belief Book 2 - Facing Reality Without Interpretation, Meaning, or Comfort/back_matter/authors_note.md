@@ -1,6 +1,6 @@
 # Author's Note
 
-Thank you for reading *The Nature of What Is So*.
+Thank you for listening to *The Nature of What Is So*.
 
 If Book 1 dismantled belief, this book faced reality directly — and discovered that reality, stripped of interpretation, is more vivid, more powerful, and more alive than any story we layer on top of it.
 

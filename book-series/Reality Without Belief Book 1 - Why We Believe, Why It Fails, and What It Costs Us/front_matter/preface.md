@@ -1,7 +1,5 @@
 # Preface
 
-This is my sixth book, and in many ways it is the culmination of everything I have written before. In _Destroy Your Beliefs_, I made the case that belief systems are not the virtues we have been taught they are, but obstacles to intellectual freedom and genuine understanding. In _Repetition_, I explored how mastery emerges not from talent or inspiration but from disciplined, consistent practice. In _The Clarity of Reality_, I began the work of engaging existence as it actually is. This series completes that trajectory — and takes it further than I have ever gone.
-
 _The Anatomy of Belief_ is the first book in the _Reality Without Belief_ series — a five-book journey that will fundamentally transform how you see yourself, your world, and your place in it. The series follows a deliberate arc. This first book dismantles what belief is and why we cling to it — and reveals the extraordinary freedom that lies beyond it. The second examines the nature of reality itself — and discovers that it is more solid, more powerful, and more liberating than any belief. The third exposes how belief operates in social and cultural systems — and reveals the remarkable capabilities that emerge when you step off the stage. The fourth provides transformative practices for living with extraordinary clarity. The fifth faces the deepest questions of identity, death, and freedom — and arrives at the most profound discovery in the entire series.
 
 Each book is designed to stand on its own while building on what came before. Together, they form a comprehensive guide to a different way of being human — a more accurate, more honest, more powerful, and more alive way.
@@ -15,6 +13,3 @@ I call this orientation "reality without belief" because that phrase captures it
 I did not arrive at this position easily. It took years of questioning, of confronting my own beliefs, of facing truths about myself and the world that I had been avoiding. But every step was worth taking. What I found on the other side of belief was not the emptiness I had feared but a fullness I had not anticipated. Reality, faced directly, is not diminished by the absence of belief. It is revealed in its actual nature — and that nature is more extraordinary, more alive, and more sufficient than anything I had imagined.
 
 This book is my attempt to share the beginning of that journey. Take from it what serves you. Question what challenges you. And discover for yourself what becomes possible when you stop believing and start seeing. Your life will never be the same.
-
-Ketan Shukla
-2026

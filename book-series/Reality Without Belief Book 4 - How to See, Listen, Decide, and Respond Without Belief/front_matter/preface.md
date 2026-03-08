@@ -13,6 +13,3 @@ This book is about practice. Not theory, not philosophy, not further analysis. P
 And then this book addresses the moments when these practices matter most — and become most powerful. When reality corrects you and you discover that welcoming correction is the fastest path to growth. When you are wrong and discover that wrongness handled honestly is always an advance. When you do not know and discover that honest uncertainty is more powerful than false certainty. When nothing makes sense and you discover that you can still function with full effectiveness.
 
 These moments are where the practice comes alive. They are where clear seeing becomes most powerful and most apparent. This book is your guide to living there — and what you find will change everything.
-
-Ketan Shukla
-2026

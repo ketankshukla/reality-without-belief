@@ -31,17 +31,3 @@ And then you will develop the capabilities that matter most:
 - How to function when nothing makes sense — discovering that the collapse of meaning is not the end of your effectiveness but the beginning of a deeper engagement
 
 The theater has been exposed. The exit is clear. Now it is time to discover how extraordinary life becomes when you live on the other side.
-
----
-
-## Also in the _Reality Without Belief_ Series
-
-**Book 1: The Anatomy of Belief** — Why We Believe, Why It Fails, and What It Costs Us
-
-**Book 2: The Nature of What Is So** — Facing Reality Without Interpretation, Meaning, or Comfort
-
-**Book 3: The Theater of Conviction** — How Culture, Identity, and Outrage Replace Thinking
-
-**Book 4: The Practice of Clear Seeing** — How to See, Listen, Decide, and Respond Without Belief
-
-**Book 5: The Quiet Exit** — Freedom, Loneliness, Death, and What Remains

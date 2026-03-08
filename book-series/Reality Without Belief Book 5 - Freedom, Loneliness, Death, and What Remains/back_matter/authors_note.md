@@ -1,6 +1,6 @@
 # Author's Note
 
-Thank you for reading *The Quiet Exit* — and for completing this five-book journey.
+Thank you for listening to _The Quiet Exit_ — and for completing this five-book journey.
 
 This final book was the most difficult and the most rewarding to write. It addresses what no one wants to talk about: the real costs of this orientation. Leaving belief communities. Losing social belonging. The loneliness of walking a path most people do not walk. These are not theoretical — they are the actual price of choosing clarity over comfort.
 
