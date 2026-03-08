@@ -1,6 +1,6 @@
-# Retail Sample
+Metronagon Media presents ...
 
-The Practice of Clear Seeing. Book Four of the Reality Without Belief series. Written and narrated by Ketan Shukla.
+The Practice of Clear Seeing. Book Four of the Reality Without Belief series. Written by Ketan Shukla.
 
 ---
 

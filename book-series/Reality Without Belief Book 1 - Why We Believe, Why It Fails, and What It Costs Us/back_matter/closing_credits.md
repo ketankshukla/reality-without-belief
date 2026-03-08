@@ -1,6 +1,4 @@
-# Closing Credits
-
-You have been listening to The Anatomy of Belief, Book One of the Reality Without Belief series, written and narrated by Ketan Shukla.
+You have been listening to The Anatomy of Belief, Book One of the Reality Without Belief series, written by Ketan Shukla.
 
 If this audiobook has opened something in you — a new way of seeing, a crack in the certainty you once held, or simply the recognition that you are not alone in questioning — then the journey has begun.
 
@@ -8,4 +6,4 @@ The path continues in Book Two: The Nature of What Is So, where you will discove
 
 Thank you for listening. Your willingness to question is the beginning of everything.
 
-This has been an Audible production.
+This has been a Metronagon Media production.

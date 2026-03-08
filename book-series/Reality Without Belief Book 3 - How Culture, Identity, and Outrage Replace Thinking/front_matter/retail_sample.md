@@ -1,6 +1,6 @@
-# Retail Sample
+Metronagon Media presents ...
 
-The Theater of Conviction. Book Three of the Reality Without Belief series. Written and narrated by Ketan Shukla.
+The Theater of Conviction. Book Three of the Reality Without Belief series. Written by Ketan Shukla.
 
 ---
 

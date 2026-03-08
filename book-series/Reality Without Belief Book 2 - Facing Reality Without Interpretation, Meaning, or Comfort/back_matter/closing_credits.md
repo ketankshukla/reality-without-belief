@@ -1,6 +1,4 @@
-# Closing Credits
-
-You have been listening to The Nature of What Is So, Book Two of the Reality Without Belief series, written and narrated by Ketan Shukla.
+You have been listening to The Nature of What Is So, Book Two of the Reality Without Belief series, written by Ketan Shukla.
 
 You have now faced reality directly — without interpretation, without moralization, without the demand that it be something it is not. You have discovered that consequences are causal rather than moral, that evidence points where it points, and that the universe's indifference is not a tragedy but a liberation.
 
@@ -8,4 +6,4 @@ The journey continues in Book Three: The Theater of Conviction, where we pull ba
 
 Thank you for listening. Reality awaits.
 
-This has been an Audible production.
+This has been a Metronagon Media production.

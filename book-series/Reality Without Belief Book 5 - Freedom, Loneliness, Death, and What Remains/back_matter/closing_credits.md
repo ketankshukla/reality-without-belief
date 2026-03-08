@@ -1,6 +1,4 @@
-# Closing Credits
-
-You have been listening to The Quiet Exit, the final book of the Reality Without Belief series, written and narrated by Ketan Shukla.
+You have been listening to The Quiet Exit, the final book of the Reality Without Belief series, written by Ketan Shukla.
 
 You have arrived. Not at new beliefs to replace the old ones. Not at a philosophy to adopt. But at something far more profound: a direct relationship with reality, with nothing in the way.
 
@@ -10,4 +8,4 @@ The journey through five books is complete. What remains is yours to live.
 
 Thank you for listening.
 
-This has been an Audible production.
+This has been a Metronagon Media production.
