@@ -329,6 +329,46 @@ MP3 files will be saved to:
 
 ---
 
+## Step 9: Create M4B Audiobooks
+
+After generating all MP3 files, create M4B audiobooks with embedded chapters and cover art:
+
+```powershell
+.\.venv\Scripts\python.exe create_m4b.py
+```
+
+This script:
+
+- Concatenates all MP3 files for each book
+- Converts to AAC format (M4B)
+- Embeds chapter markers based on track durations
+- Embeds cover art from `audiobook-covers/`
+- Outputs to `m4b-audiobook/[Book Name]/[Book Name].m4b`
+
+### M4B Output Structure
+
+```
+m4b-audiobook/
+├── Reality Without Belief Book 1 - The Anatomy Of Belief/
+│   └── Reality Without Belief Book 1 - The Anatomy Of Belief.m4b
+├── Reality Without Belief Book 2 - The Nature Of What Is So/
+│   └── Reality Without Belief Book 2 - The Nature Of What Is So.m4b
+├── Reality Without Belief Book 3 - The Theater Of Conviction/
+│   └── Reality Without Belief Book 3 - The Theater Of Conviction.m4b
+├── Reality Without Belief Book 4 - The Practice Of Clear Seeing/
+│   └── Reality Without Belief Book 4 - The Practice Of Clear Seeing.m4b
+└── Reality Without Belief Book 5 - The Quiet Exit/
+    └── Reality Without Belief Book 5 - The Quiet Exit.m4b
+```
+
+### Verify M4B Chapters
+
+```powershell
+ffprobe -i "path\to\file.m4b" -show_chapters
+```
+
+---
+
 ## ACX Track Listing (25 tracks per book)
 
 | Track | Filename                         | Source                             |

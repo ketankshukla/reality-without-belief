@@ -33,13 +33,31 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# Video files
-*.mp4
-
 # Audio files
 *.mp3
 *.wav
+*.m4b
+*.m4a
+*.ogg
+*.flac
+*.aac
+
+# Video files
+*.mp4
+*.avi
+*.mkv
+*.mov
+*.wmv
+*.webm
+
+# Archive files
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
 
 # Audiobook generation
 amazon-production/audiobooks/output/
+amazon-production/audiobooks/m4b-audiobook/
 amazon-production/audiobooks/.venv/
