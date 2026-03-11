@@ -310,9 +310,43 @@ Eventually:
 
 ---
 
-## Book Concepts Library
+## Pen Names Library (Recommended for Fiction)
 
-You have **100 ready-to-use detailed book concepts** in `book-concepts/`:
+You have **10 pen names with 10 concepts each** (100 total) in `pen-names/`:
+
+| #   | Pen Name             | Genre Niche              | Concepts |
+| --- | -------------------- | ------------------------ | -------- |
+| 1   | **Kael Varen**       | Dark Grimdark Fantasy    | 10       |
+| 2   | **Sera Nightingale** | Paranormal Romance / Fae | 10       |
+| 3   | **Cole Harker**      | Military Sci-Fi          | 10       |
+| 4   | **Vera Sinclair**    | Psychological Thriller   | 10       |
+| 5   | **Silas Crow**       | Supernatural Horror      | 10       |
+| 6   | **Pippa Hartwell**   | Cozy Mystery             | 10       |
+| 7   | **Jett Holloway**    | Urban Fantasy            | 10       |
+| 8   | **Nova Sinclair**    | Dystopian Fiction        | 10       |
+| 9   | **Eleanor Vane**     | Historical Fiction       | 10       |
+| 10  | **Finn Ryder**       | LitRPG / GameLit         | 10       |
+
+### How to Use Pen Names
+
+**Generate by pen name and concept:**
+
+> "Generate a book by Kael Varen from concept `003-iron-and-shadow`"
+
+**Generate from a pen name's niche:**
+
+> "Generate a grimdark fantasy book by Kael Varen about a mercenary seeking revenge"
+
+**Each pen name folder contains:**
+
+- `AUTHOR-PROFILE.md` — Complete Amazon Author Central profile, bio, photo brief
+- `concepts/` — 10 detailed book concepts for that niche
+
+---
+
+## Book Concepts Library (General)
+
+You also have **100 general book concepts** in `book-concepts/`:
 
 ### Fiction (50 concepts)
 
@@ -366,5 +400,6 @@ Each concept file includes:
 
 ---
 
-_Quick Start Author Mode v1.1_
+_Quick Start Author Mode v1.2_
 _Optimized for Ketan Shukla / Metronagon Media_
+_Now includes 10 Pen Names with 100 niche-focused fiction concepts_

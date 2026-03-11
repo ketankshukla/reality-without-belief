@@ -18,10 +18,18 @@ This documentation describes how to use an AI agent (Claude/Cascade) to automati
 | `08-METRONAGON-PACKAGE-MAPPING.md` | Maps Metronagon service packages to deliverables                                |
 | `09-QUICK-START-AUTHOR-MODE.md`    | **FAST MODE** — Generate books from 2-3 sentences                               |
 | `book-concepts/`                   | **100 READY-TO-USE CONCEPTS** — 50 fiction + 50 non-fiction detailed concepts   |
+| `pen-names/`                       | **10 PEN NAMES × 10 CONCEPTS EACH** — 100 niche-focused fiction concepts        |
 
 ## Quick Start
 
-### Option 0: Use a Pre-Made Concept (Fastest)
+### Option 0: Use a Pen Name Concept (Recommended for Fiction)
+
+1. **Browse** `pen-names/` for 10 pen names, each with 10 niche-focused concepts
+2. **Say:** "Generate a book by Kael Varen from concept `001-the-ashen-throne`"
+3. **Agent** uses the pen name's Author Central profile + concept to generate the book
+4. **Receive** complete project with correct author attribution and genre focus
+
+### Option 1: Use a Pre-Made Concept (General)
 
 1. **Browse** `book-concepts/fiction/` or `book-concepts/non-fiction/`
 2. **Say:** "Generate a book from concept [number], e.g., fiction/023-the-authenticity-plague"
