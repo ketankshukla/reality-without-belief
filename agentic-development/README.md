@@ -17,8 +17,16 @@ This documentation describes how to use an AI agent (Claude/Cascade) to automati
 | `07-QUALITY-STANDARDS.md`          | Quality criteria derived from the Reality Without Belief project                |
 | `08-METRONAGON-PACKAGE-MAPPING.md` | Maps Metronagon service packages to deliverables                                |
 | `09-QUICK-START-AUTHOR-MODE.md`    | **FAST MODE** — Generate books from 2-3 sentences                               |
+| `book-concepts/`                   | **100 READY-TO-USE CONCEPTS** — 50 fiction + 50 non-fiction detailed concepts   |
 
 ## Quick Start
+
+### Option 0: Use a Pre-Made Concept (Fastest)
+
+1. **Browse** `book-concepts/fiction/` or `book-concepts/non-fiction/`
+2. **Say:** "Generate a book from concept [number], e.g., fiction/023-the-authenticity-plague"
+3. **Agent** uses the detailed concept to generate the complete book project
+4. **Receive** complete project folder with all assets
 
 ### Option A: Author Mode (Recommended for Ketan)
 
