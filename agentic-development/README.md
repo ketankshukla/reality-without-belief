@@ -6,18 +6,28 @@ This documentation describes how to use an AI agent (Claude/Cascade) to automati
 
 ## Documentation Structure
 
-| Document | Purpose |
-|----------|---------|
-| `01-SYSTEM-ARCHITECTURE.md` | Complete system design, agent workflow, and integration points |
-| `02-PROJECT-STRUCTURE.md` | Standard folder/file structure for generated book projects |
-| `03-BOOK-BRIEF-TEMPLATE.md` | **THE INPUT** — Fill this out to generate a complete book |
-| `04-IMAGE-PROMPT-TEMPLATES.md` | Reusable templates for book covers, logos, banners, social media |
-| `05-CONTENT-GENERATION-GUIDE.md` | Detailed instructions for each content type (chapters, front/back matter, etc.) |
-| `06-AGENT-WORKFLOW.md` | Step-by-step execution workflow for the agent |
-| `07-QUALITY-STANDARDS.md` | Quality criteria derived from the Reality Without Belief project |
-| `08-METRONAGON-PACKAGE-MAPPING.md` | Maps Metronagon service packages to deliverables |
+| Document                           | Purpose                                                                         |
+| ---------------------------------- | ------------------------------------------------------------------------------- |
+| `01-SYSTEM-ARCHITECTURE.md`        | Complete system design, agent workflow, and integration points                  |
+| `02-PROJECT-STRUCTURE.md`          | Standard folder/file structure for generated book projects                      |
+| `03-BOOK-BRIEF-TEMPLATE.md`        | **THE INPUT** — Fill this out to generate a complete book                       |
+| `04-IMAGE-PROMPT-TEMPLATES.md`     | Reusable templates for book covers, logos, banners, social media                |
+| `05-CONTENT-GENERATION-GUIDE.md`   | Detailed instructions for each content type (chapters, front/back matter, etc.) |
+| `06-AGENT-WORKFLOW.md`             | Step-by-step execution workflow for the agent                                   |
+| `07-QUALITY-STANDARDS.md`          | Quality criteria derived from the Reality Without Belief project                |
+| `08-METRONAGON-PACKAGE-MAPPING.md` | Maps Metronagon service packages to deliverables                                |
+| `09-QUICK-START-AUTHOR-MODE.md`    | **FAST MODE** — Generate books from 2-3 sentences                               |
 
 ## Quick Start
+
+### Option A: Author Mode (Recommended for Ketan)
+
+1. **Say:** "Generate a book from this concept: [2-3 sentences describing your book]"
+2. **Agent** auto-generates a complete brief using creative judgment
+3. **Agent** generates the entire book project
+4. **Receive** complete project folder with all assets
+
+### Option B: Full Brief Mode (For Clients)
 
 1. **Copy** `03-BOOK-BRIEF-TEMPLATE.md` to a new file
 2. **Fill in** all required sections with your book details
@@ -33,11 +43,13 @@ This documentation describes how to use an AI agent (Claude/Cascade) to automati
 ## Supported Outputs
 
 ### For Amazon KDP
+
 - Kindle ebook (EPUB generation-ready content)
 - Paperback (print-ready content)
 - Audiobook scripts (chapter-by-chapter for text-to-speech)
 
 ### Marketing Assets
+
 - Book cover image prompts (multiple concepts)
 - Series logo prompts
 - Box set cover prompts
@@ -46,6 +58,7 @@ This documentation describes how to use an AI agent (Claude/Cascade) to automati
 - Book trailer scripts
 
 ### Amazon Listings
+
 - Book descriptions (keyword-optimized)
 - KDP categories and keywords
 - A+ Content suggestions
@@ -57,4 +70,4 @@ This documentation describes how to use an AI agent (Claude/Cascade) to automati
 
 ---
 
-*Built for Metronagon Media by Ketan Shukla*
+_Built for Metronagon Media by Ketan Shukla_
